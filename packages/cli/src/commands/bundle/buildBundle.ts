@@ -101,7 +101,12 @@ async function buildBundle(
     });
 
     // When we're done saving bundle output and the assets, we're done.
-    return await saveAssets(outputAssets, args.platform, args.assetsDest);
+    return await saveAssets(
+      outputAssets,
+      args.platform,
+      args.assetsDest,
+      args.assetCatalogDest,
+    );
   } finally {
     server.end();
   }
