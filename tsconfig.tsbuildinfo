@@ -1,0 +1,3674 @@
+{
+  "program": {
+    "fileInfos": {
+      "../../node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "b42eddba1a53c9d27279cfe7fc0416c10a81489826ad47e39013b9d340fc0cc7",
+        "signature": "b42eddba1a53c9d27279cfe7fc0416c10a81489826ad47e39013b9d340fc0cc7"
+      },
+      "../../node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
+        "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
+      },
+      "../../node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1",
+        "signature": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1"
+      },
+      "../../node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743",
+        "signature": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743"
+      },
+      "../../node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "734ddc145e147fbcd55f07d034f50ccff1086f5a880107665ec326fb368876f6",
+        "signature": "734ddc145e147fbcd55f07d034f50ccff1086f5a880107665ec326fb368876f6"
+      },
+      "../../node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "4a0862a21f4700de873db3b916f70e41570e2f558da77d2087c9490f5a0615d8",
+        "signature": "4a0862a21f4700de873db3b916f70e41570e2f558da77d2087c9490f5a0615d8"
+      },
+      "../../node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "765e0e9c9d74cf4d031ca8b0bdb269a853e7d81eda6354c8510218d03db12122",
+        "signature": "765e0e9c9d74cf4d031ca8b0bdb269a853e7d81eda6354c8510218d03db12122"
+      },
+      "../../node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "285958e7699f1babd76d595830207f18d719662a0c30fac7baca7df7162a9210",
+        "signature": "285958e7699f1babd76d595830207f18d719662a0c30fac7baca7df7162a9210"
+      },
+      "../../node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "d4deaafbb18680e3143e8b471acd650ed6f72a408a33137f0a0dd104fbe7f8ca",
+        "signature": "d4deaafbb18680e3143e8b471acd650ed6f72a408a33137f0a0dd104fbe7f8ca"
+      },
+      "../../node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
+        "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
+      },
+      "../../node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
+        "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
+      },
+      "../../node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
+        "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
+      },
+      "../../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
+        "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
+      },
+      "../../node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0",
+        "signature": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0"
+      },
+      "../../node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "c2d60b2e558d44384e4704b00e6b3d154334721a911f094d3133c35f0917b408",
+        "signature": "c2d60b2e558d44384e4704b00e6b3d154334721a911f094d3133c35f0917b408"
+      },
+      "../../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f",
+        "signature": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f"
+      },
+      "../../node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c",
+        "signature": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c"
+      },
+      "../../node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6",
+        "signature": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6"
+      },
+      "../../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46",
+        "signature": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46"
+      },
+      "../../node_modules/@types/events/index.d.ts": {
+        "version": "400db42c3a46984118bff14260d60cec580057dc1ab4c2d7310beb643e4f5935",
+        "signature": "400db42c3a46984118bff14260d60cec580057dc1ab4c2d7310beb643e4f5935"
+      },
+      "../../node_modules/@types/node/inspector.d.ts": {
+        "version": "7e49dbf1543b3ee54853ade4c5e9fa460b6a4eca967efe6bf943e0c505d087ed",
+        "signature": "7e49dbf1543b3ee54853ade4c5e9fa460b6a4eca967efe6bf943e0c505d087ed"
+      },
+      "../../node_modules/@types/node/base.d.ts": {
+        "version": "9eb6ed7f67245f815a70e718cb2396070890ce589978cb5ae9738fa2287a9c72",
+        "signature": "9eb6ed7f67245f815a70e718cb2396070890ce589978cb5ae9738fa2287a9c72"
+      },
+      "../../node_modules/@types/node/ts3.2/index.d.ts": {
+        "version": "1de0ff6200b92798a5aef43f57029c79dbf69932037dee1c007fdd2c562db258",
+        "signature": "1de0ff6200b92798a5aef43f57029c79dbf69932037dee1c007fdd2c562db258"
+      },
+      "../../node_modules/@types/graceful-fs/index.d.ts": {
+        "version": "2c7dca525f4e2e5f2b357dacb58ab6c8777995e6d505ef652bcbbf9789ac558f",
+        "signature": "2c7dca525f4e2e5f2b357dacb58ab6c8777995e6d505ef652bcbbf9789ac558f"
+      },
+      "./src/tools/gracefulifyfs.ts": {
+        "version": "9f993ebd9549b6213f24653baf8132ffb62889baa46ad57dd4e589bbb11fad5f",
+        "signature": "3a3c4e850156ecc2b0c8533f8000164a47cb3cf1ee8572c0b5ceaaf4af54e72f"
+      },
+      "../../node_modules/chalk/index.d.ts": {
+        "version": "f416820e2e8f33a5e07698bd5f50acf6db29716d98896ec1bf11b483d3ed4c54",
+        "signature": "f416820e2e8f33a5e07698bd5f50acf6db29716d98896ec1bf11b483d3ed4c54"
+      },
+      "../../node_modules/commander/typings/index.d.ts": {
+        "version": "ce0594a0432dce2f4e9f6130d538a52d6292ca323e729b75d8e0febd9134dc65",
+        "signature": "ce0594a0432dce2f4e9f6130d538a52d6292ca323e729b75d8e0febd9134dc65"
+      },
+      "../../node_modules/leven/index.d.ts": {
+        "version": "d16a25a77d07beae9c8e37cfa2676d36fa9502185fb96684b33d998e3601a5c9",
+        "signature": "d16a25a77d07beae9c8e37cfa2676d36fa9502185fb96684b33d998e3601a5c9"
+      },
+      "../cli-types/build/ios.d.ts": {
+        "version": "9bbd897157622ae9c69fd2af07ca506c4dc3bef1929cbbdb271c6a3e27e67b56",
+        "signature": "9bbd897157622ae9c69fd2af07ca506c4dc3bef1929cbbdb271c6a3e27e67b56"
+      },
+      "../cli-types/build/android.d.ts": {
+        "version": "4ee6abae02f3b8a799023538cba2924562a128a810e62838725fa3936db5fbdd",
+        "signature": "4ee6abae02f3b8a799023538cba2924562a128a810e62838725fa3936db5fbdd"
+      },
+      "../../node_modules/cli-spinners/index.d.ts": {
+        "version": "10743940652384d7f63d34a207bd05e8dc634a9df4b5058928a15cc354dcbd81",
+        "signature": "10743940652384d7f63d34a207bd05e8dc634a9df4b5058928a15cc354dcbd81"
+      },
+      "../../node_modules/ora/index.d.ts": {
+        "version": "ae2a07a6cf97809e15b7179f3b8fb5ee54293b403f27b9049d5188c805cc7e5e",
+        "signature": "ae2a07a6cf97809e15b7179f3b8fb5ee54293b403f27b9049d5188c805cc7e5e"
+      },
+      "../cli-types/build/index.d.ts": {
+        "version": "5475492bcc3dfde5a3ac08332497c5789897cdccab560bc28417e7f80046b1be",
+        "signature": "5475492bcc3dfde5a3ac08332497c5789897cdccab560bc28417e7f80046b1be"
+      },
+      "../tools/build/logger.d.ts": {
+        "version": "1bb0b661cdb89ac47b24e3c49e1aaea8cf36e61844a55b8b239c8c988823e3cf",
+        "signature": "1bb0b661cdb89ac47b24e3c49e1aaea8cf36e61844a55b8b239c8c988823e3cf"
+      },
+      "../../node_modules/@types/lodash/ts3.1/common/common.d.ts": {
+        "version": "4025cf62742c5bb3d383c8a62342481622c87e3397ea5e7b7baab18b9efd5798",
+        "signature": "4025cf62742c5bb3d383c8a62342481622c87e3397ea5e7b7baab18b9efd5798"
+      },
+      "../../node_modules/@types/lodash/ts3.1/common/array.d.ts": {
+        "version": "c21830111d49a5cd7a9f384370db5b41c659d045fe920bcac1cc9f507c88125d",
+        "signature": "c21830111d49a5cd7a9f384370db5b41c659d045fe920bcac1cc9f507c88125d"
+      },
+      "../../node_modules/@types/lodash/ts3.1/common/collection.d.ts": {
+        "version": "0c75b204aed9cf6ff1c7b4bed87a3ece0d9d6fc857a6350c0c95ed0c38c814e8",
+        "signature": "0c75b204aed9cf6ff1c7b4bed87a3ece0d9d6fc857a6350c0c95ed0c38c814e8"
+      },
+      "../../node_modules/@types/lodash/ts3.1/common/date.d.ts": {
+        "version": "187119ff4f9553676a884e296089e131e8cc01691c546273b1d0089c3533ce42",
+        "signature": "187119ff4f9553676a884e296089e131e8cc01691c546273b1d0089c3533ce42"
+      },
+      "../../node_modules/@types/lodash/ts3.1/common/function.d.ts": {
+        "version": "035b95793288bf4457a2b80bfe9b7500a29324ad62adcf9991277198e8833096",
+        "signature": "035b95793288bf4457a2b80bfe9b7500a29324ad62adcf9991277198e8833096"
+      },
+      "../../node_modules/@types/lodash/ts3.1/common/lang.d.ts": {
+        "version": "c2d47e5668f89ed8768d306919c42bb88d50d4029d68f58343141360895cfcc0",
+        "signature": "c2d47e5668f89ed8768d306919c42bb88d50d4029d68f58343141360895cfcc0"
+      },
+      "../../node_modules/@types/lodash/ts3.1/common/math.d.ts": {
+        "version": "65648639567d214f62c1b21d200c852807e68bdb08311f95ab6f526ef5b98995",
+        "signature": "65648639567d214f62c1b21d200c852807e68bdb08311f95ab6f526ef5b98995"
+      },
+      "../../node_modules/@types/lodash/ts3.1/common/number.d.ts": {
+        "version": "00baffbe8a2f2e4875367479489b5d43b5fc1429ecb4a4cc98cfc3009095f52a",
+        "signature": "00baffbe8a2f2e4875367479489b5d43b5fc1429ecb4a4cc98cfc3009095f52a"
+      },
+      "../../node_modules/@types/lodash/ts3.1/common/object.d.ts": {
+        "version": "7fc5a3d7cff296cea5c225911726a56283b663328709088fcc912d61f73682fc",
+        "signature": "7fc5a3d7cff296cea5c225911726a56283b663328709088fcc912d61f73682fc"
+      },
+      "../../node_modules/@types/lodash/ts3.1/common/seq.d.ts": {
+        "version": "3c92b6dfd43cc1c2485d9eba5ff0b74a19bb8725b692773ef1d66dac48cda4bd",
+        "signature": "3c92b6dfd43cc1c2485d9eba5ff0b74a19bb8725b692773ef1d66dac48cda4bd"
+      },
+      "../../node_modules/@types/lodash/ts3.1/common/string.d.ts": {
+        "version": "e34f3f6159b1e23de9bb5521382795aaa5aaed6f53b4702e70a2ec45bc76ddb5",
+        "signature": "e34f3f6159b1e23de9bb5521382795aaa5aaed6f53b4702e70a2ec45bc76ddb5"
+      },
+      "../../node_modules/@types/lodash/ts3.1/common/util.d.ts": {
+        "version": "2630a7cbb597e85d713b7ef47f2946d4280d3d4c02733282770741d40672b1a5",
+        "signature": "2630a7cbb597e85d713b7ef47f2946d4280d3d4c02733282770741d40672b1a5"
+      },
+      "../../node_modules/@types/lodash/ts3.1/index.d.ts": {
+        "version": "bbf144d4354e2aaa6439f32761f3ee798cc68d1600adab6e2a596f25269f106d",
+        "signature": "bbf144d4354e2aaa6439f32761f3ee798cc68d1600adab6e2a596f25269f106d"
+      },
+      "../tools/build/groupfilesbytype.d.ts": {
+        "version": "2a0628301550a4a4e9d9fc966b69a1073b6fada348bcab5470fbaca33166ca10",
+        "signature": "2a0628301550a4a4e9d9fc966b69a1073b6fada348bcab5470fbaca33166ca10"
+      },
+      "../tools/build/ispackagerrunning.d.ts": {
+        "version": "4240532414321bbbf84251d18a15ab22caa597809a59b68321703c0c345e1106",
+        "signature": "4240532414321bbbf84251d18a15ab22caa597809a59b68321703c0c345e1106"
+      },
+      "../tools/build/getdefaultuserterminal.d.ts": {
+        "version": "8620889a6b02c58be69bf42e6f150b95cba8ecdd9f54a36ef73b5f39d223e839",
+        "signature": "8620889a6b02c58be69bf42e6f150b95cba8ecdd9f54a36ef73b5f39d223e839"
+      },
+      "../../node_modules/form-data/index.d.ts": {
+        "version": "cbb7029e32a6a72178cda8baa9129b1ee6d1d779a35e46c780e38b4909d42a89",
+        "signature": "cbb7029e32a6a72178cda8baa9129b1ee6d1d779a35e46c780e38b4909d42a89"
+      },
+      "../../node_modules/@types/node-fetch/externals.d.ts": {
+        "version": "972f1e91dab93b182624a17eeed02f683b8cb3fefbda7b689cc84570029d5f73",
+        "signature": "972f1e91dab93b182624a17eeed02f683b8cb3fefbda7b689cc84570029d5f73"
+      },
+      "../../node_modules/@types/node-fetch/index.d.ts": {
+        "version": "c9d63ee4a61f19e98fd55c3c7d5a3dbdfbcf787a0136ee99f5e116a0eed2ac6d",
+        "signature": "c9d63ee4a61f19e98fd55c3c7d5a3dbdfbcf787a0136ee99f5e116a0eed2ac6d"
+      },
+      "../tools/build/fetch.d.ts": {
+        "version": "941c99de538bfb97f3731a00754c46ca4d0edead0c43fefffdf932f2588486a3",
+        "signature": "941c99de538bfb97f3731a00754c46ca4d0edead0c43fefffdf932f2588486a3"
+      },
+      "../tools/build/launchdefaultbrowser.d.ts": {
+        "version": "90e235558fa423328ef531464ccf87669cc240e3a3ea43fa6cea76ea17b3b7b4",
+        "signature": "90e235558fa423328ef531464ccf87669cc240e3a3ea43fa6cea76ea17b3b7b4"
+      },
+      "../tools/build/launchdebugger.d.ts": {
+        "version": "22bedf40db030714eac7505af57bc1bd459ca7b21dd245a4a821e16c774b03e0",
+        "signature": "22bedf40db030714eac7505af57bc1bd459ca7b21dd245a4a821e16c774b03e0"
+      },
+      "../tools/build/launcheditor.d.ts": {
+        "version": "10aac50084bb880029aa0b0e420ac0fc3be95d712c716c4ba7117aa08ce8c001",
+        "signature": "10aac50084bb880029aa0b0e420ac0fc3be95d712c716c4ba7117aa08ce8c001"
+      },
+      "../tools/build/errors.d.ts": {
+        "version": "b84df6e81723082e0c240b32ada81458f8116262c54e3232f379e4ed90e9c933",
+        "signature": "b84df6e81723082e0c240b32ada81458f8116262c54e3232f379e4ed90e9c933"
+      },
+      "../tools/build/index.d.ts": {
+        "version": "76a8c3096cd9fec21f3bd763fbaf30d65be5fcbd798b907d666d510497749b3e",
+        "signature": "76a8c3096cd9fec21f3bd763fbaf30d65be5fcbd798b907d666d510497749b3e"
+      },
+      "../../node_modules/@types/ws/index.d.ts": {
+        "version": "829c6dfd3224be3b599c64ce7fa9136a3422ac7ab4569cc52469c65574facb23",
+        "signature": "829c6dfd3224be3b599c64ce7fa9136a3422ac7ab4569cc52469c65574facb23"
+      },
+      "../cli-server-api/build/devtoolsmiddleware.d.ts": {
+        "version": "c566ca981f82d6b7a297d5c5005feb8edb4c9c0f48a31562b6dd943aba3d5bca",
+        "signature": "c566ca981f82d6b7a297d5c5005feb8edb4c9c0f48a31562b6dd943aba3d5bca"
+      },
+      "../cli-server-api/build/indexpagemiddleware.d.ts": {
+        "version": "1035b19114454090248a042330c3157be00c12936df22dded4dd7c047cb3df85",
+        "signature": "1035b19114454090248a042330c3157be00c12936df22dded4dd7c047cb3df85"
+      },
+      "../../node_modules/@types/connect/index.d.ts": {
+        "version": "e6ffa74698f0a1d23e4223242ed7dcdb89d02bbbb063a1930e9f91d0385abe16",
+        "signature": "e6ffa74698f0a1d23e4223242ed7dcdb89d02bbbb063a1930e9f91d0385abe16"
+      },
+      "../cli-server-api/build/openstackframeineditormiddleware.d.ts": {
+        "version": "22ee6008af1aaf90a0295f2bc0d885fcad903f5203e26ae9390b26b95b51d3f1",
+        "signature": "22ee6008af1aaf90a0295f2bc0d885fcad903f5203e26ae9390b26b95b51d3f1"
+      },
+      "../cli-server-api/build/openurlmiddleware.d.ts": {
+        "version": "e71e3c5f721244c2d6c70846591fd4b55e4af168fd9581a895e78bc848e03e90",
+        "signature": "e71e3c5f721244c2d6c70846591fd4b55e4af168fd9581a895e78bc848e03e90"
+      },
+      "../cli-server-api/build/rawbodymiddleware.d.ts": {
+        "version": "7f4940d6c950ddf129560e730cf78c5d26e788328715e4214e496e078bfe0519",
+        "signature": "7f4940d6c950ddf129560e730cf78c5d26e788328715e4214e496e078bfe0519"
+      },
+      "../cli-server-api/build/securityheadersmiddleware.d.ts": {
+        "version": "22676d19d1ed0061f5b54f7193bf0cfc2eb8c5477c5a1df1f3d9468fb9b29b44",
+        "signature": "22676d19d1ed0061f5b54f7193bf0cfc2eb8c5477c5a1df1f3d9468fb9b29b44"
+      },
+      "../cli-server-api/build/statuspagemiddleware.d.ts": {
+        "version": "d0a66253374c5c29a1c1eaa582d643c081aabd79329a44ae6cfa83185af5d295",
+        "signature": "d0a66253374c5c29a1c1eaa582d643c081aabd79329a44ae6cfa83185af5d295"
+      },
+      "../cli-server-api/build/systraceprofilemiddleware.d.ts": {
+        "version": "c49a8840c1c6d557762303680425cf1f17977ec9d1bb84ccd4e84f96f4aac581",
+        "signature": "c49a8840c1c6d557762303680425cf1f17977ec9d1bb84ccd4e84f96f4aac581"
+      },
+      "../cli-server-api/build/websocket/debuggerproxyserver.d.ts": {
+        "version": "9a75da5843e53ca02ed4f9ce0d8516a1ae370eb07449c665b32262fafa691933",
+        "signature": "9a75da5843e53ca02ed4f9ce0d8516a1ae370eb07449c665b32262fafa691933"
+      },
+      "../cli-server-api/build/websocket/messagesocketserver.d.ts": {
+        "version": "e239d727c3cc683b77d1c841340390b487ca8e59cb454c88ff1fd26b2dcf0c85",
+        "signature": "e239d727c3cc683b77d1c841340390b487ca8e59cb454c88ff1fd26b2dcf0c85"
+      },
+      "../cli-server-api/build/websocket/eventssocketserver.d.ts": {
+        "version": "ef6d560119df4ddbc69635732a2fef8eb8ee26090c44ee327e8876ffc0692df9",
+        "signature": "ef6d560119df4ddbc69635732a2fef8eb8ee26090c44ee327e8876ffc0692df9"
+      },
+      "../cli-server-api/build/index.d.ts": {
+        "version": "2d5c40f6069057355436bc41f079a9c36110b8976ffaae89a6e206f29f7cd92e",
+        "signature": "2d5c40f6069057355436bc41f079a9c36110b8976ffaae89a6e206f29f7cd92e"
+      },
+      "./src/tools/metroplatformresolver.ts": {
+        "version": "9571e827163a34d06f556f3131b9a070fa6bea733a93c3606a8242b3b96e2e04",
+        "signature": "79bb569abd3baec87bf4f0a4e2bacaa48f0f7d0a8794abebec185fa84d94cfe6"
+      },
+      "./src/tools/loadmetroconfig.ts": {
+        "version": "afbaab83888dd4a20515385431122815d2770c313feb38fa9b9867e76fa456e4",
+        "signature": "cc2708095220838fd2359a7c9c0349a874567451a357b8bc21a13f74866233a7"
+      },
+      "./src/tools/config/resolvenodemoduledir.ts": {
+        "version": "e057c019a535e2384f7f6e7c8f352cb23bc7c24a24e543decbe306b42b3d00d3",
+        "signature": "1253479147573f4842c3cdd8153cf3581cdca259da49573c52c00194b69b60be"
+      },
+      "../../node_modules/@types/semver/index.d.ts": {
+        "version": "91035663354e644734013796ed9fe2f16a223cd00cf709e96eeab1e4034d45de",
+        "signature": "91035663354e644734013796ed9fe2f16a223cd00cf709e96eeab1e4034d45de"
+      },
+      "../../node_modules/@types/mkdirp/index.d.ts": {
+        "version": "6396a7a06f3ef0fc31a7c89330e015146b78a2256b030c698b6d404594c37b8f",
+        "signature": "6396a7a06f3ef0fc31a7c89330e015146b78a2256b030c698b6d404594c37b8f"
+      },
+      "./src/tools/releasechecker/releasecachemanager.ts": {
+        "version": "bd762d5b9b998854fa2030c6e8197752006d8c1c53abc2c58c9fb7e142898416",
+        "signature": "08725642e1cf1183f7fe27c113848faeda81d7f2cc3be0a20ff45b331b2bf190"
+      },
+      "./src/tools/releasechecker/getlatestrelease.ts": {
+        "version": "6a14b15052a08472f6e5abb3eeff38fe826afd02d68f641f7fa6e752aa86cb54",
+        "signature": "8dc695d913b8808e79ed37c824b1177a10a14a8aeb8c936e11823f3795bf48e0"
+      },
+      "./src/tools/releasechecker/printnewrelease.ts": {
+        "version": "c2d4dbdba992087d5622f03aed068068f0f233d33075654aae5ca32c3391e5a4",
+        "signature": "642847185981b1a40b9b32ec4caf33d7581b33c32b0b72d00002880bb78ceff8"
+      },
+      "./src/tools/releasechecker/index.ts": {
+        "version": "ce63a2f5785ef6191de681fccfca649af5ad42c9856579c814fd922a590ab1e5",
+        "signature": "2c887706844075c53ea87bc7299b20c70d1016651bc05103e401c735cbf0bd71"
+      },
+      "./src/tools/hookstdout.ts": {
+        "version": "ab4fbe6dc7279c070f101c7514b0324e95be73f58e4307d64d6d43d1ab50a35a",
+        "signature": "53463644f55994676182e0915941bc4c9d6f889d552ac8a46cc2fa743bb97b95"
+      },
+      "./src/commands/start/watchmode.ts": {
+        "version": "6227a2abc10813043c7b040e7467b4b1b8562fad112e127cc30fc410c388b6dd",
+        "signature": "9c62de0c48db220e7f551d204c354a56a13733cc14676fcc453261cea86b8018"
+      },
+      "./src/commands/start/runserver.ts": {
+        "version": "96d60c2efd28bc5f5d073d0d66d642354bf841d032ce7ce376b7d1295074ad97",
+        "signature": "c6ad77440b23ece3cfa07e167386afc58983dbac9832765111de9e96d712df27"
+      },
+      "./src/commands/start/start.ts": {
+        "version": "c152e46bb77b448a672df9cd0b79b5e59dcca57743d3b047cda924d7f6f9355a",
+        "signature": "5d6d48586b43cbf4d08ad8353e4d19bf8315e7263f3ecf88162ce51fd6e3cc0a"
+      },
+      "./src/commands/bundle/bundlecommandlineargs.ts": {
+        "version": "46fc7ba00aae7b09007e24d1be9f583af1ce413f442cee2067e5ce076f46cd9d",
+        "signature": "20d6df1bddef5a1d75b48748c3aa965c842e5e568d8ccce799c1e2dd22cc4985"
+      },
+      "../../node_modules/@types/fs-extra/index.d.ts": {
+        "version": "5171627120eeb3a7e8afb8ed04ea9be7f0b53ba09bb1fc95172483e0fbb0740c",
+        "signature": "5171627120eeb3a7e8afb8ed04ea9be7f0b53ba09bb1fc95172483e0fbb0740c"
+      },
+      "./src/commands/bundle/assetpathutils.ts": {
+        "version": "d59023c14c56ce7f5660f72ea05c758a87d899110669732be90bcb561a93a98d",
+        "signature": "08039fba6aac0eee74afa76106a8d39ca042244ba96ba85b33612fe14b3ab585"
+      },
+      "./src/commands/bundle/assetcatalogios.ts": {
+        "version": "84a44853ceae5ecf828d75d08555fbe923b87600ab5c48275e05b155af71511b",
+        "signature": "720d418dfd2c9f62ac3990aee9e46a2aa8166720d29525ee266b3912d3310e9c"
+      },
+      "./src/commands/bundle/filterplatformassetscales.ts": {
+        "version": "0d59e648aae705200fa3fd5effa9ba5ddd9109eff6506a234d4b0edc0cc1cc63",
+        "signature": "3ec4b6ade1e4f63ce927115698d831cb3623feae893806d1ef28f58eb34b8b60"
+      },
+      "./src/commands/bundle/getassetdestpathandroid.ts": {
+        "version": "63afeaa2c4c1df1fcb9727b7ea1e236252dda7bede13530effe956fa68bdf14a",
+        "signature": "eb101332fc861404ba876e9070c26bea42ad959cae7c7291c5cc3980d6138821"
+      },
+      "./src/commands/bundle/getassetdestpathios.ts": {
+        "version": "b2a5108de297b0f6843253af914464d2efd04ffd923c226fd7893356017f47f8",
+        "signature": "e1e0142b4a18f2beaf3e35208f5712e44416983aaaf245b45202b932093597e0"
+      },
+      "./src/commands/bundle/saveassets.ts": {
+        "version": "f77ce1708d4fe8983870ab49f6e546f40c662250f3ad647c9a171efb61f0dc4e",
+        "signature": "4959a6d92a4ffcb28f5d2be00f0d4b9812da0b90964b66345bc8b5f241dd635c"
+      },
+      "./src/commands/bundle/buildbundle.ts": {
+        "version": "177abb4d9b47128c49163ebc20016d457d89c7552fbe3632399881d97246b91f",
+        "signature": "11cb283a2134cbeda8488f66c20f915a818f2f10eb0add99c002699066f11421"
+      },
+      "./src/commands/bundle/bundle.ts": {
+        "version": "36c207aec5a162bf726678da834e608d984ef23bac0bd18d34be1ec94b93f4b2",
+        "signature": "2a4fe15a95bbba1c94f67c60983ede7b1bf3700010242672e5a8b2848582ea81"
+      },
+      "./src/commands/bundle/rambundle.ts": {
+        "version": "2fb6463c3a35d9dcec64677fdce5cdc4a97591528c030aa25d0af8d94433bdd4",
+        "signature": "85b7be19e6f44b3f43bc5c018e53eb50b1d772dea5b1851237b678ac841f44fa"
+      },
+      "./src/commands/link/getplatformname.ts": {
+        "version": "6c1091b478acc5e22cbae8d1475d6da097e8685106ffa77af6561234ceb2cf5e",
+        "signature": "03adf9c6dbc3c73da16e9307a974c875a5c4a4439665ca5d4e6a5e09e52e9c57"
+      },
+      "./src/commands/link/pollparams.ts": {
+        "version": "9dfea1611a5e4cf070f37db7a8a082a675a8ea8285a0a9536593ddffb9dc15e1",
+        "signature": "da47c37f252cf305c86e7fa2eec73724e6ca88c9176eab1309a15fc9c9391cf9"
+      },
+      "./src/commands/link/linkdependency.ts": {
+        "version": "335852fe3cd0670e105655f7b805928f89e44b15033c18c69ff2a2659cd0a7ad",
+        "signature": "ca84d709765e9f007049744eed93a737953fefa613b8552ed32a27429a70b953"
+      },
+      "./src/commands/link/linkassets.ts": {
+        "version": "1d9e694880f578fdba5839533d781bf520b46eccb4f587a1d9b3d4da94ab96d3",
+        "signature": "f1b8975aa1ef1eec75290a9abcc5dee50c58dccaa1e498aca1b2872501ccdaae"
+      },
+      "../../node_modules/@types/execa/index.d.ts": {
+        "version": "fc8a811b5942987b94c52771bf3249b89b9ecfc502e035b09fae113912d395cd",
+        "signature": "fc8a811b5942987b94c52771bf3249b89b9ecfc502e035b09fae113912d395cd"
+      },
+      "./src/commands/link/makehook.ts": {
+        "version": "f3c890a399a86b501de805591941f2d8f6569c096416c7b461e020d0737e5a9e",
+        "signature": "5905b911fbd47fb5ee0943745b844f340cd91420ea10a7c165e7111b86e905ae"
+      },
+      "./src/commands/link/printdeprecationwarning.ts": {
+        "version": "f5d664305817a12f25f17c3a3991624273f260698a4e2216c6e4a33460db7135",
+        "signature": "4da83a5ec75537d4ea7e577713fe99bf4d2d1feacc5917871df81e2f3b0a11fe"
+      },
+      "./src/commands/link/linkall.ts": {
+        "version": "ee7a26ee9034ea99bccb4457dbed13350f36011c93af50ad85bca86f01582f03",
+        "signature": "c587eefcecdb8dfaf1defd886abd97d00fca793b9e85023cfa08e76f78ae2fe1"
+      },
+      "./src/commands/link/link.ts": {
+        "version": "74d09293bddff6208cf16ea989b2aaf9ac2a748e1a373d468581375ac8f84d41",
+        "signature": "9d9404bef347d0914cd8feb3983bef1030fddf65b1893ae4234cf3a289233f14"
+      },
+      "./src/commands/link/unlink.ts": {
+        "version": "5bc333ddf5d618d8b40e5d6f30183741e1913a69a48e6d0414ac16f122fa47b0",
+        "signature": "2be3884341ec39f2ed7d149d92e9e8c348875d1975162e34b4814744fab82dac"
+      },
+      "./node_modules/locate-path/index.d.ts": {
+        "version": "82bf3772616ba306ba63c84550e2c45072f829abdb4392a54defe39a4e587b26",
+        "signature": "82bf3772616ba306ba63c84550e2c45072f829abdb4392a54defe39a4e587b26"
+      },
+      "./node_modules/find-up/index.d.ts": {
+        "version": "0b3126e16e55540a97ecf1bf3bafa53aa97159ef09ed14acc871d7d84fedcbf9",
+        "signature": "0b3126e16e55540a97ecf1bf3bafa53aa97159ef09ed14acc871d7d84fedcbf9"
+      },
+      "./src/tools/yarn.ts": {
+        "version": "807cf7cada19312bb9a155681c19c0ab7c32b48c767449468c97bb6760b68076",
+        "signature": "5a0bf8db87f38f97ab88171e5173d058c409690064431c04621add3124a7873e"
+      },
+      "./src/tools/packagemanager.ts": {
+        "version": "a94596ed017d21fe2acdc7760a023288b22ed27a91da3cc1782476e6ea560a6b",
+        "signature": "f02f5c70cf19de25353fa26a096f54b47aebdd3e1c7a41d9300a6452cf105758"
+      },
+      "./src/tools/config/finddependencies.ts": {
+        "version": "dfce11c2d4e0db1fb483c173a49dadec5695f81538de11cdae16ad3274d9beca",
+        "signature": "62271204acf5287419a8f5405c15d88754fbbbbe15f9465c8d9575324ca4a66e"
+      },
+      "./src/tools/config/findprojectroot.ts": {
+        "version": "cff35ce9257df158cd9250d691d3250bcdd3d774b5e4bb43937a738b464d3bd1",
+        "signature": "7f5ac6234c1cc551a0ca51fbbb0bc6da118ced059e65d8e7377140f780d53f94"
+      },
+      "./src/tools/config/resolvereactnativepath.ts": {
+        "version": "51d6439998be11d2316919a035c958e4b48821433c5148cb03c0fc604ceec39d",
+        "signature": "193d06126af86aad403b2bbc7a43bce070b74aea0c556a50107196d82d87138a"
+      },
+      "../../node_modules/@types/minimatch/index.d.ts": {
+        "version": "1d1e6bd176eee5970968423d7e215bfd66828b6db8d54d17afec05a831322633",
+        "signature": "1d1e6bd176eee5970968423d7e215bfd66828b6db8d54d17afec05a831322633"
+      },
+      "../../node_modules/@types/glob/index.d.ts": {
+        "version": "d852d6282c8dc8156d26d6bda83ab4bde51fee05ba2fe0ecdc165ddda009d3ee",
+        "signature": "d852d6282c8dc8156d26d6bda83ab4bde51fee05ba2fe0ecdc165ddda009d3ee"
+      },
+      "./src/tools/config/findassets.ts": {
+        "version": "d9a87f2fdc5093c25c5573a1e7db442b058c2e1e0b11f61fb3915da5f4bf23d9",
+        "signature": "4216ba1c89ad51ae7f81032e036cc1a62741c51baef8c9aeeb641736438862cb"
+      },
+      "../../node_modules/@types/cosmiconfig/index.d.ts": {
+        "version": "dd591498148d18c594e87cbbad92511e7a479517ab9d4987520ef5da5cfb963f",
+        "signature": "dd591498148d18c594e87cbbad92511e7a479517ab9d4987520ef5da5cfb963f"
+      },
+      "../../node_modules/joi/lib/index.d.ts": {
+        "version": "5ff3d47a58f5bc62dd614ce93c4aa4171a8352abf5ef96938f67d9b6281c5239",
+        "signature": "5ff3d47a58f5bc62dd614ce93c4aa4171a8352abf5ef96938f67d9b6281c5239"
+      },
+      "./src/tools/config/errors.ts": {
+        "version": "28ee60d41f8bf11a03b8bc78f2a51f77718749cc121a12a437e85e72c29b2615",
+        "signature": "abe3984dbf956041089fd6241a49c7d353546a43c9e6a992750ab6e5499c6ef9"
+      },
+      "./src/tools/config/schema.ts": {
+        "version": "d37b30146bd84d9e8a2fb93d7129b3e5c11689d10a8b66e5fd651c2ba17a160e",
+        "signature": "398f8d10ae9bbda7cb281856c390bd23611e2b1e44fb7e34ae9b02439367e182"
+      },
+      "./src/tools/config/readconfigfromdisk.ts": {
+        "version": "59531bd747dcddaf1f46d727b9d030af063a326c846e19dd37249ea6602b63d9",
+        "signature": "0ae11ae5183a0c2656c15d026e994dfc3e969c5e431f5e1024195cda398231d8"
+      },
+      "./src/tools/assign.ts": {
+        "version": "faa372fc12501db031c96337f6fabfb2cbb6e481be9a404997d9bd7ad54c3fff",
+        "signature": "b079919db8a99f59462ea774db869a00ca00dccdd99d22123a334be964480312"
+      },
+      "../../node_modules/deepmerge/index.d.ts": {
+        "version": "f163b1edf76fbde01836f8522fbe646fe2f55e313bb7fdd363891748f9b57c60",
+        "signature": "f163b1edf76fbde01836f8522fbe646fe2f55e313bb7fdd363891748f9b57c60"
+      },
+      "./src/tools/merge.ts": {
+        "version": "1e2b2050aaa9db318d7e25402ef0c531c6a97238755cc3138864203a51a8d1d7",
+        "signature": "d48715ff93d3b5b521e20b8b3e048972d24c20581d540807ba360cdaaef8fbb2"
+      },
+      "./src/tools/config/index.ts": {
+        "version": "d8b755aed1cbc35fa0ebc209ebf00c33efaef8b5071b8b834d0f340181433bb6",
+        "signature": "c025493af8ba2750692e9ff848fcd9e3d7e4d595dae45793e10e7a25463ff1de"
+      },
+      "./src/commands/install/install.ts": {
+        "version": "740075c7d43b9afb3b6874a7a503a7b80f7d172b6c5b87a4d0410d3763c9ab3e",
+        "signature": "8a4fbcff20e1f9fbcef4db4f424cf96f3eb0f218eb5b9dad834b72eea18677ed"
+      },
+      "./src/commands/install/uninstall.ts": {
+        "version": "a962d943bdbcb3d78cb61313f48d4f639ca38663cc46909a3f7ddf5f42abd5d1",
+        "signature": "d289feff0ce6c8dab2306600bc8c13ebff8b3eb7690392200ea9c7b991151e93"
+      },
+      "./src/tools/loader.ts": {
+        "version": "b7e11fa0ac5e161556839cd25051e13af4bc81379f4372f9c259d3dbe269ba81",
+        "signature": "395d645252b64757532a96bc367681ac434d4e81b063275f676e917ed00f3bf0"
+      },
+      "../../node_modules/sudo-prompt/index.d.ts": {
+        "version": "cdc8e816baaf5ed7d956f3989f91c47c1992904306153b9fa42ff4c0546e4215",
+        "signature": "cdc8e816baaf5ed7d956f3989f91c47c1992904306153b9fa42ff4c0546e4215"
+      },
+      "../../node_modules/@types/wcwidth/index.d.ts": {
+        "version": "9ccde625df16c34ff902f6b340b8ef56bb1b1c9451977dd441d9e4c3ddc2e14e",
+        "signature": "9ccde625df16c34ff902f6b340b8ef56bb1b1c9451977dd441d9e4c3ddc2e14e"
+      },
+      "../../node_modules/strip-ansi/index.d.ts": {
+        "version": "d690ec58f57c5fa69cfe088959335c9f12482db67eb1bc1bbba93e3062f69276",
+        "signature": "d690ec58f57c5fa69cfe088959335c9f12482db67eb1bc1bbba93e3062f69276"
+      },
+      "./src/commands/doctor/healthchecks/common.ts": {
+        "version": "3f1d952ddcd856d417d54c2970ed5f01a0e6a94e8bc2f98bfe0003d90515b985",
+        "signature": "816b904ea9e85bc06287538b0df02e0cd2b22748ec561754858753c2baac4b0c"
+      },
+      "./src/tools/brewinstall.ts": {
+        "version": "06ca17d7bae9e790011997fd717c7ab5eabb94274e8d4e37f20e4aecdaf34aae",
+        "signature": "8f7d4c85b8d293d4173ff7a8d974b6001b400dd3a840f1b7431a84557449bc0d"
+      },
+      "./src/tools/installpods.ts": {
+        "version": "34c5dc2d25d399e12012a235e76117a1fdc0d8e04f82a1f16e5cfd9682387f86",
+        "signature": "e1e8221883506aef6121223bd6d1743faa39cc9686d00b517a9eede1df53f438"
+      },
+      "./src/commands/upgrade/upgrade.ts": {
+        "version": "43ba5fcd866f2a0845fdbf04dba7cc452b4680c0dd26dc087fe2330e21903005",
+        "signature": "9d49b220c8068574803eaa827991c33748151a7cbfb6c96924b6f798c31c80f5"
+      },
+      "./src/tools/envinfo.ts": {
+        "version": "79d5cd4257c4a7a900c57e11062cac5436263bd85d50d07b761f593caafe1aa8",
+        "signature": "03c7e0e3d425efe40b13c896e0edc46a0ad92588458e79ab5f16ad612ed412a7"
+      },
+      "./src/commands/info/info.ts": {
+        "version": "4018b79939094cd69763c5d95aef147e64e6455ae81931c8d518bf2de1051783",
+        "signature": "6aff3118bfaf2d4bbd3fe600e4fd106e41e1b06e814f079d07ea9bd53fc76c17"
+      },
+      "./src/commands/config/config.ts": {
+        "version": "97d780c1d259eaf88cc788fd866e50a6d7a78c77f374771fc5f322d380c2db23",
+        "signature": "5e5be67b196f11760b138688f69c258e12f9679aa703a1813e459e2f88e6280a"
+      },
+      "../../node_modules/@types/minimist/index.d.ts": {
+        "version": "3602dfff3072caea42f23a9b63fb34a7b0c95a62b93ce2add5fe6b159447845e",
+        "signature": "3602dfff3072caea42f23a9b63fb34a7b0c95a62b93ce2add5fe6b159447845e"
+      },
+      "./src/commands/init/errors/invalidnameerror.ts": {
+        "version": "f10809d2c08ab0103466d3a838990758f8e38a88d2acb3f629459e2875555ac1",
+        "signature": "2007b0b7d4728fcb58b6393330890d11798bda3a0ba56a27de283382b00fd493"
+      },
+      "./src/commands/init/errors/reservednameerror.ts": {
+        "version": "009ecd257be6f04b673b9df85466bd01d68de84c69ea78ab9b6e022200351109",
+        "signature": "746209ae5a6f5e296fab1a8cca9e8b1594cb4d12ca088f0a7ed0a9be1e180ca9"
+      },
+      "./src/commands/init/errors/helloworlderror.ts": {
+        "version": "024f6adf5574d66d58adba408dc541cab58706671974ded5f695853e4598b377",
+        "signature": "a536d7c99fe3031f3b5eb720868fed7e61c811ea4c2af21328ef757aede25981"
+      },
+      "./src/commands/init/validate.ts": {
+        "version": "32d4d2026c394583ec13448ddc4008cdf35b0c279f0bb457ddf967510389dc7a",
+        "signature": "e997c691e52b258a1154ee7893034c360b1359e9c4e174334d64dc0e812e2c16"
+      },
+      "./src/commands/init/errors/directoryalreadyexistserror.ts": {
+        "version": "eca12110fe97c5c141df562cbe1c3d0ac5f1ac7a7d9c966602952f2a53c7d5fc",
+        "signature": "ad370515cdf8fa967332f81404481487d2e89af7519e9d283dac476576bf391e"
+      },
+      "./src/commands/init/printruninstructions.ts": {
+        "version": "a9200dc87a89d3437964a6dfaaf5db919aec8a130804e3911ef7979212b1c155",
+        "signature": "d3ccdfb1c934e0836679e1c3773e2d6797251ef150a4376d55af9a7edc70923b"
+      },
+      "./src/tools/walk.ts": {
+        "version": "77acd8d2b8f25dae4e03d059f0a3aac2701fc0f8f16599140db512f6b289a05b",
+        "signature": "7e02afef32e25dacd974d6dc2b3c20a7183bcb78b413b1c6d684a94b3757e874"
+      },
+      "./src/tools/copyfiles.ts": {
+        "version": "47f48143b130d2de612d863aef0943f9685613b55530dd4856a2e9117a9d5cca",
+        "signature": "78eac9ec6de31caa19d9bbcf7a3f25447c9bd18c4e5ee212527a83933abccc3e"
+      },
+      "./src/tools/replacepathsepforregex.ts": {
+        "version": "c287995572db06c3b2edc914b4897a10f1cc2eb0cc799202a9092f8f60f573b6",
+        "signature": "07affd81efd8a0a5c5d0f211bd86a874da9d1027c35d32c17dd8e0cb56a4ed0a"
+      },
+      "./src/commands/init/template.ts": {
+        "version": "ba79561a43c7b71ef1c5147ecbbd8cf75362c9ba7b94b150d2654e0520af9f0c",
+        "signature": "708760b138380b4b227efdeff7dde501d05e72961c9c41bd5eed87a3ea20e605"
+      },
+      "./src/commands/init/edittemplate.ts": {
+        "version": "5e9b9c38b44b3a2b35afe8553f6d8f6a0ceb7c5fc0bec46698fdfb94b212646c",
+        "signature": "0032f637147a88e578edf866f280dbbde5a32b2ed51181608d9759947bd3c1b6"
+      },
+      "./src/commands/init/templatename.ts": {
+        "version": "f719bcb1c402cd9e37638bed7dbb661d35b6f1b7a2b7084eae9d62655a231072",
+        "signature": "793beb97ee51da8048d70a22f23901d3d0b446bccbd1ee94241cc95c79754d94"
+      },
+      "./src/commands/init/banner.ts": {
+        "version": "543145a31bfbbabf70abd2ded522b09f24c5943a71efe04f666a93b79ca8b27d",
+        "signature": "1cb5c409bd623e515317b4c589a397cd6926c1663a527183c313306e1c7a5452"
+      },
+      "./src/commands/init/init.ts": {
+        "version": "3528354f1df786e7f02f76b8236a1d71ecb61d0ce297a7fead93e17c2e1350d1",
+        "signature": "c9fc06b9a2aaaf42d41c0adfa819821cc8ebaadcad066c087ca098f973089f21"
+      },
+      "./src/commands/init/index.ts": {
+        "version": "0bf1d746cce15063f695f7eaeef56c002ea9ad106b162bba9d3c089bf8692c4d",
+        "signature": "f140d063553f37918d561e77d52425d6916715816ea9bcd69673ae6f06c7dfed"
+      },
+      "./src/commands/doctor/versionranges.ts": {
+        "version": "8f68bab7799306ee488eb8e5702ad7b4a9bd6574d66a86cfb54c300bd6fd1771",
+        "signature": "2fe3153006128d25423da987429cd45e54f02fb7b39cd0ee79e35c619f71ac86"
+      },
+      "../../node_modules/@types/command-exists/index.d.ts": {
+        "version": "c9a517452529a17888b3bf8e2722d2b38edc80ba4dbbd7f01cdb0ff8596320b2",
+        "signature": "c9a517452529a17888b3bf8e2722d2b38edc80ba4dbbd7f01cdb0ff8596320b2"
+      },
+      "./src/commands/doctor/checkinstallation.ts": {
+        "version": "638716cd8e819b761557ca1f0b8f7d985f065b3700afdaa47f1c4abfb0de6719",
+        "signature": "5a6198326723d1aa14c05f4fddd2361c717c9553193314257abfce0ba80b732a"
+      },
+      "./src/commands/doctor/healthchecks/nodejs.ts": {
+        "version": "45502ec65cda592f4497d4619fafa203fef013201dfe87136465caefc8ddea75",
+        "signature": "bc38bdbced5834dbec843b612d8dbd971ba4a5048101a22c9371efcf9ccc4ba8"
+      },
+      "./src/tools/install.ts": {
+        "version": "fc1cbf67bf502c308752305fe1b0f523e8b19d1f0bda0cde9a91594649c0bfda",
+        "signature": "f278e13ca71b7bcf33ba32b1e1299399204ad9d685da6f97ae88b89d4bde7729"
+      },
+      "./src/commands/doctor/healthchecks/packagemanagers.ts": {
+        "version": "9541802b638b15d81d0ad27be45e22d70bf69ccbfd7256703fb931c744e75038",
+        "signature": "cf9e5a707f9580386206ff6e820fd485bf90b88152f1ffc5b97c48d2ecd81724"
+      },
+      "./src/tools/unzip.ts": {
+        "version": "d185adc41f52863ffd2811d51e82eb72aa4d70acc357e563c05643b3746dbd7a",
+        "signature": "63b9b71b0994ab7ea12754f664090f56b596e0ec27fe1d188fc1d52bf5fd2d2d"
+      },
+      "./src/tools/deletefile.ts": {
+        "version": "774c774d9edeb278114e719fa96e43a14af784eebfc21f3ce7f30324d8135b07",
+        "signature": "bb8e795d86656efbf3181e93cad04f4b30b5fc6ccadaa701df513911541beb9a"
+      },
+      "./src/tools/downloadandunzip.ts": {
+        "version": "337dde63e9ae5da875a6c7054b9ad83ba4c68d73cb65cc704cd0f5688d0dc444",
+        "signature": "c14798e331a44dff40b736d12141db5b5059a14daa13ce651a58de0b9f42a460"
+      },
+      "./src/tools/windows/executewincommand.ts": {
+        "version": "f3e208d52d65fa113853e73a7e93c1fbf418a29b64d8163ab28048e26680f279",
+        "signature": "d770a05876dcfcd1a7c9b9dd1ce63457f31a93a83e4d8d56b55bb9b27dacf49f"
+      },
+      "./src/tools/windows/environmentvariables.ts": {
+        "version": "b9baad7a90918dadeb807ad181dd63e4067e63b6f4d0e186f365d62fdf83a49b",
+        "signature": "09e111b115ff71d704ef07eb74d55c49be8e8380a912bf01463c84315d570b56"
+      },
+      "./src/commands/doctor/healthchecks/jdk.ts": {
+        "version": "35faa8a68687bb473bc61d54f14e37eeb8f7a0e06a3f1dc818632d654541f171",
+        "signature": "6158d2b2c25d1a053c8ce9ec337ce23363692d5744c178f3dc70164f142af72b"
+      },
+      "./src/commands/doctor/healthchecks/python.ts": {
+        "version": "b75f8bd76a05e9f8e08538e687942eacc3fe3203006b2e04fe89559f03652ce3",
+        "signature": "a2ef12c7d6beb82b7fd335543f55cd95979cd4b3f72b4115cd45fa5a7c06bbd6"
+      },
+      "./src/commands/doctor/healthchecks/watchman.ts": {
+        "version": "dbcf7a2ff39eb24b32cec41d0b5dcb971a3dd6420436c7dd4fd19e0a896803ea",
+        "signature": "b028cf385195464b968beac149878741321c8175c79f2eeda709852cce2c9837"
+      },
+      "./src/commands/doctor/healthchecks/androidhomeenvvariable.ts": {
+        "version": "8a1f82626281bb23ab7ff8eb442a5d14b1a3b9689a67131564239b1d14a2c568",
+        "signature": "b1a6163217ed3da6046b8d827508c9662dbf79d31526c176ae780ff718b084ba"
+      },
+      "./src/tools/windows/processortype.ts": {
+        "version": "9b36a98047b75abdb9c612117e12a1c53de5efb79ffb3e4b9a7a767b07572aeb",
+        "signature": "48dc1db813a4895dcb2b6361adab98af571ac662a5111a5a44bda040f0c9f9a1"
+      },
+      "./src/tools/windows/androidwinhelpers.ts": {
+        "version": "0961347236eebc7da3a73fe9116623dba182e921344b9476d9266320293e3666",
+        "signature": "b35be166bda5199cf502018e9cfcb23c551d449106fe31308e00b68a6ae91362"
+      },
+      "./src/tools/windows/create-shortcut.ts": {
+        "version": "ddab403f991f930799fe4a849637ac8aa6960efd28dd9ad4837e23b3976944e4",
+        "signature": "c338dd693d719ca8c19731e2247b726a35f3d06cec9b36964a445b31a3b7118e"
+      },
+      "./src/commands/doctor/healthchecks/androidstudio.ts": {
+        "version": "a9cc1aa2ed4460686ddee0ea2c286066d32bcc41b8532fe84c26028c46102515",
+        "signature": "473bd5f9026fd87992b9b6e48bb7cec44ab377b44efb8e22f93638802db99bae"
+      },
+      "./src/commands/doctor/healthchecks/androidsdk.ts": {
+        "version": "d8cd0df5d9e8b10e2faaf73ca4aa97dee0b5190ce6a6b204526b66dbc8719868",
+        "signature": "1850aa0e3686f839606e13f59096c572e252ae7a52581c7f23a385900b2d814a"
+      },
+      "./src/commands/doctor/healthchecks/androidndk.ts": {
+        "version": "74c7c6bd471873e361019e5f6e8ebf88265ed84d3246866d9dafa69b36f35276",
+        "signature": "e3d30c1dd52da31024afdefda633eede0f1ca24e92b0221b8b32f87538fcc29a"
+      },
+      "./src/commands/doctor/healthchecks/xcode.ts": {
+        "version": "43476766015ab0deacd418e2f11f3ba137b2c3316e524152a5dbc0662b1b87d3",
+        "signature": "0c1ae1ef71e102eea00e0cbc6ef632332967d61b6e661b30c7880d8922500d52"
+      },
+      "./src/commands/doctor/healthchecks/cocoapods.ts": {
+        "version": "ae9f4cc610a3f6a6ce57da273b13a93d170538df34b773223bebf5f6d82719bd",
+        "signature": "2d6a2a04ee4a85093d2d76f240138e0804699bb02a832ed276fb74cc98f55248"
+      },
+      "./src/commands/doctor/healthchecks/iosdeploy.ts": {
+        "version": "3debe8f74f6f55aa8fee21060294d36848e697457dc4ee28bb80c83d2d7c744a",
+        "signature": "d2f64a4e55527022397ae4567d2c33fd97af3df7477a29cec909cac518752061"
+      },
+      "./src/commands/doctor/healthchecks/index.ts": {
+        "version": "182881dfe77e0f365fa7d481184ee8ddfc9aea4e158ecd0d7cd8a9e8a4a18e68",
+        "signature": "b4b6b4a9e069de79fc7e5c7d1baa70cf42935ccc7c7fed21385393d188f18cd4"
+      },
+      "./src/commands/doctor/printfixoptions.ts": {
+        "version": "87901b6e3965cf827b932f2d35d3edd09713961b6ea9f5bd710f74576d629a7b",
+        "signature": "4358abfa7d422c2689f55079d744dda6890dbf620599e6f136265661ab085f22"
+      },
+      "./src/commands/doctor/types.ts": {
+        "version": "09af9528898b1da214c8e8353efdd98e1da4eb3695318317169ff4f2d904e6f3",
+        "signature": "8d21746f5c8b635478644e761e83ef750ec244ff49ba9ebcbc3c0c4fc5b59a3e"
+      },
+      "./src/commands/doctor/runautomaticfix.ts": {
+        "version": "205e441e745be2137eeff2cca7e1f93e03622811f318c017298166e7217d7908",
+        "signature": "e6057c99169d3f381ac067d97a2f6f2da56650aee329e5e4bc9a70889e66008b"
+      },
+      "./src/commands/doctor/doctor.ts": {
+        "version": "9a1e71d2e37f3489d1f4f60cb83c09bd1c4058b1bd90a71945fa6018231a2c1a",
+        "signature": "2329bd5ba15c076ef97142cce7b33c40eab0f9b0c52d68a8003ebeb1581e6834"
+      },
+      "./src/commands/doctor/index.ts": {
+        "version": "5dbec0674f50ccf0c8b0890fb388bfbcf28f537682ea6bfed632dfc142d80f0d",
+        "signature": "f004aba3144cfb642caa8b3f045ccd36ebc38891d2bafff569164d9db71369fe"
+      },
+      "../cli-hermes/build/profilehermes/index.d.ts": {
+        "version": "5c37e6eaa08319b167301e7a224b5b47b9f52c9367c35e68c284e008aebdff82",
+        "signature": "5c37e6eaa08319b167301e7a224b5b47b9f52c9367c35e68c284e008aebdff82"
+      },
+      "../cli-hermes/build/index.d.ts": {
+        "version": "7a3d301647818377fa97540882cbbd07c86c271b4a7e4db3f7ae3d86baf6d6ea",
+        "signature": "7a3d301647818377fa97540882cbbd07c86c271b4a7e4db3f7ae3d86baf6d6ea"
+      },
+      "./src/commands/index.ts": {
+        "version": "de8a28da2b574e0a25b4327d50ccf3697d78314553d3e5a14b0cb3c15050c544",
+        "signature": "4a72096a83a09e278133fb11eb2d412e4e5696aefe4384143179f6d5103a0c77"
+      },
+      "./src/tools/copyandreplace.ts": {
+        "version": "fb6ae972537a8e014985f707e43a7e08d3c112b6ff6adb4dca45494e31a9203d",
+        "signature": "b9788091ea4634af5f0ec10c9c6039839ee2c0ae6db324ef905afb8f1825fcea"
+      },
+      "./src/tools/generator/promptsync.ts": {
+        "version": "92950f8f4bf1bc1eb57c24f0b4177ad3f1c148e91b6e7daa589bb2a7fe646e9b",
+        "signature": "4cd9a5bc5eecddd4ffc88aa3fa6acc994c500bf42808a6e740df1333c5a25381"
+      },
+      "./src/tools/generator/copyprojecttemplateandreplace.ts": {
+        "version": "6bcd2cae316e4ac4913b18fc813ea8b8bbdcc2376b6e5a855f0f969b447668cb",
+        "signature": "6affb48add5db865637c4a64fa98da416bc483b6859b34ce8614e1a9d27610b4"
+      },
+      "./src/tools/generator/templates.ts": {
+        "version": "6bde4296927aa524c0e5589a5eee3444698042f16f622ab06f9562b58dd0b385",
+        "signature": "c6f2b14ec004082800028bb924880169cd0c4895eedc0b090f30153bfc6cfefd"
+      },
+      "./src/commands/init/initcompat.ts": {
+        "version": "f69d155cc2997e932882ac44943c09011515de67a7fcc3d5ac27189a7a863d7b",
+        "signature": "4f4a84580b62b933f13065dd34b6672360fab9b7a8901550aefb3d7e0062ae79"
+      },
+      "./src/tools/assertrequiredoptions.ts": {
+        "version": "dc626df517dfb5f1facfa89429f95cfe19899ca08980205862116b7b71c793b6",
+        "signature": "37c503363379bcfe01a727d2ac1585b4580e30e113b30d6c66f785fcca202cb6"
+      },
+      "./src/index.ts": {
+        "version": "0e6405d25db53613725f5c592d0fa179c83d57e06244648bf8fb46349919a5e8",
+        "signature": "31bd53cd348811f09d169f600dca0541b207f9acdd8db96a5f26af5b03f81551"
+      },
+      "./src/bin.ts": {
+        "version": "5952b1a141ad712278b14487a0897ea9cf3adf1bb9e591d170e31196165acf1a",
+        "signature": "6375bee4a6daf7022000a8871ae01cdb3d1801d51e88621977cc763d85f8c406"
+      },
+      "./src/tools/config/__mocks__/index.ts": {
+        "version": "039ea74c2b1e05681dc47e867fdb6324f9f1ab168e1bd326fbcd15049ce79157",
+        "signature": "9d1b77c52717a505afb26ae803feec93322891c3e573069306c3d7d0dcfd7e68"
+      },
+      "./src/tools/config/__mocks__/resolvenodemoduledir.ts": {
+        "version": "5f42a5f7dde7df75e3d7d5844115cec753e7ce893c4f4da263010b5c889f6bc2",
+        "signature": "ae64715a475b80c725d95c4793a82e1a9cfb71b5299b1ec9fb059aa61f69ce43"
+      },
+      "../../node_modules/@babel/types/lib/index.d.ts": {
+        "version": "9566baf39af3e8e8525367b91f8313d0f3dee7dd21aa76bb9ecbc5c3c66df739",
+        "signature": "9566baf39af3e8e8525367b91f8313d0f3dee7dd21aa76bb9ecbc5c3c66df739"
+      },
+      "../../node_modules/@types/babel__generator/index.d.ts": {
+        "version": "b25c5f2970d06c729f464c0aeaa64b1a5b5f1355aa93554bb5f9c199b8624b1e",
+        "signature": "b25c5f2970d06c729f464c0aeaa64b1a5b5f1355aa93554bb5f9c199b8624b1e"
+      },
+      "../../node_modules/@types/babel__traverse/index.d.ts": {
+        "version": "1fd8e7bda08591c056a1782cc7be557735461ee93be737a27e6714979cad018b",
+        "signature": "1fd8e7bda08591c056a1782cc7be557735461ee93be737a27e6714979cad018b"
+      },
+      "../../node_modules/@babel/parser/typings/babel-parser.d.ts": {
+        "version": "56dede90729ef85351f132d66e05510851211d627e2f2c6621475d4f7938f365",
+        "signature": "56dede90729ef85351f132d66e05510851211d627e2f2c6621475d4f7938f365"
+      },
+      "../../node_modules/@types/babel__template/index.d.ts": {
+        "version": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8",
+        "signature": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8"
+      },
+      "../../node_modules/@types/babel__core/index.d.ts": {
+        "version": "cb5df634c024fe13ea293f7aa2b27a9d02f9b3aece975c884485c617d7653e25",
+        "signature": "cb5df634c024fe13ea293f7aa2b27a9d02f9b3aece975c884485c617d7653e25"
+      },
+      "../../node_modules/@types/body-parser/index.d.ts": {
+        "version": "ebddbd167c2fabd0151f50e5df94ca6d845149c47521280d8867afe3429dd078",
+        "signature": "ebddbd167c2fabd0151f50e5df94ca6d845149c47521280d8867afe3429dd078"
+      },
+      "../../node_modules/@types/color-name/index.d.ts": {
+        "version": "f0cb4b3ab88193e3e51e9e2622e4c375955003f1f81239d72c5b7a95415dad3e",
+        "signature": "f0cb4b3ab88193e3e51e9e2622e4c375955003f1f81239d72c5b7a95415dad3e"
+      },
+      "../../node_modules/@types/range-parser/index.d.ts": {
+        "version": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b",
+        "signature": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b"
+      },
+      "../../node_modules/@types/express-serve-static-core/index.d.ts": {
+        "version": "20f6d99c458e6c439ddf021391c6a9025caefea7076c52440ff07790d13cf266",
+        "signature": "20f6d99c458e6c439ddf021391c6a9025caefea7076c52440ff07790d13cf266"
+      },
+      "../../node_modules/@types/mime/index.d.ts": {
+        "version": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6",
+        "signature": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6"
+      },
+      "../../node_modules/@types/serve-static/index.d.ts": {
+        "version": "cdbae5083ef8f786069519405ca1f1e2ce72b9efebdf5e1931584fba747f3bc0",
+        "signature": "cdbae5083ef8f786069519405ca1f1e2ce72b9efebdf5e1931584fba747f3bc0"
+      },
+      "../../node_modules/@types/express/index.d.ts": {
+        "version": "6e1c6fe784daeba017901db7766e6b872f535defe33b0e0196d2a12c26f50517",
+        "signature": "6e1c6fe784daeba017901db7766e6b872f535defe33b0e0196d2a12c26f50517"
+      },
+      "../../node_modules/@types/compression/index.d.ts": {
+        "version": "12509b418cf3a93cf601026f9a82c496da31e355cd30b10bdd46c9e50a3e81c5",
+        "signature": "12509b418cf3a93cf601026f9a82c496da31e355cd30b10bdd46c9e50a3e81c5"
+      },
+      "../../node_modules/@types/errorhandler/index.d.ts": {
+        "version": "2e88c00f0ec6ac8af958664905181f54b1792373134d4a102505769cbe8db3ec",
+        "signature": "2e88c00f0ec6ac8af958664905181f54b1792373134d4a102505769cbe8db3ec"
+      },
+      "../../node_modules/@types/eslint-visitor-keys/index.d.ts": {
+        "version": "725d9be2fd48440256f4deb00649adffdbc5ecd282b09e89d4e200663792c34c",
+        "signature": "725d9be2fd48440256f4deb00649adffdbc5ecd282b09e89d4e200663792c34c"
+      },
+      "../../node_modules/@types/hapi__joi/index.d.ts": {
+        "version": "91a2fdd0c0d1fb495958b2d476785b000d8d337caba9078c14f48c65e324b17a",
+        "signature": "91a2fdd0c0d1fb495958b2d476785b000d8d337caba9078c14f48c65e324b17a"
+      },
+      "../../node_modules/@types/ip/index.d.ts": {
+        "version": "4d2319a2a33bd370e1b85399fa1b83751725981f21aae64a521b1db123e38cf4",
+        "signature": "4d2319a2a33bd370e1b85399fa1b83751725981f21aae64a521b1db123e38cf4"
+      },
+      "../../node_modules/@types/istanbul-lib-coverage/index.d.ts": {
+        "version": "9e951ec338c4232d611552a1be7b4ecec79a8c2307a893ce39701316fe2374bd",
+        "signature": "9e951ec338c4232d611552a1be7b4ecec79a8c2307a893ce39701316fe2374bd"
+      },
+      "../../node_modules/@types/istanbul-lib-report/index.d.ts": {
+        "version": "7eb06594824ada538b1d8b48c3925a83e7db792f47a081a62cf3e5c4e23cf0ee",
+        "signature": "7eb06594824ada538b1d8b48c3925a83e7db792f47a081a62cf3e5c4e23cf0ee"
+      },
+      "../../node_modules/@types/istanbul-reports/index.d.ts": {
+        "version": "93b59bc67329d5add033e3198583c39aa939cef891e6a2b763e0bea2b514ea9b",
+        "signature": "93b59bc67329d5add033e3198583c39aa939cef891e6a2b763e0bea2b514ea9b"
+      },
+      "../../node_modules/jest-diff/build/cleanupsemantic.d.ts": {
+        "version": "9a605b7e5de905b5e67ef1dfc7fb6956275ee3f1744ded5fd314ee8b8befe7d0",
+        "signature": "9a605b7e5de905b5e67ef1dfc7fb6956275ee3f1744ded5fd314ee8b8befe7d0"
+      },
+      "../../node_modules/jest-diff/build/types.d.ts": {
+        "version": "f343673792be9436af98016a143ee1eb3dfdac69b19a128721d92f468934f449",
+        "signature": "f343673792be9436af98016a143ee1eb3dfdac69b19a128721d92f468934f449"
+      },
+      "../../node_modules/jest-diff/build/difflines.d.ts": {
+        "version": "757ba482cc2bf38f297607a73d5f051463e0b8d98ad06f95497a2750ab2c81bf",
+        "signature": "757ba482cc2bf38f297607a73d5f051463e0b8d98ad06f95497a2750ab2c81bf"
+      },
+      "../../node_modules/jest-diff/build/printdiffs.d.ts": {
+        "version": "bd74b0401c8f8aba933797403124c04ed7cf4a4e71e92d68d39034deacee864f",
+        "signature": "bd74b0401c8f8aba933797403124c04ed7cf4a4e71e92d68d39034deacee864f"
+      },
+      "../../node_modules/jest-diff/build/index.d.ts": {
+        "version": "d621da2e20d81fab2abde68c9df2d256fcaa3f2270b34b74f678646ad843575e",
+        "signature": "d621da2e20d81fab2abde68c9df2d256fcaa3f2270b34b74f678646ad843575e"
+      },
+      "../../node_modules/@types/jest/node_modules/pretty-format/build/types.d.ts": {
+        "version": "6ed4f0568165065f03426b1333999c5b9f528d92936eee0ba432537b7cd9a88e",
+        "signature": "6ed4f0568165065f03426b1333999c5b9f528d92936eee0ba432537b7cd9a88e"
+      },
+      "../../node_modules/@types/jest/node_modules/pretty-format/build/index.d.ts": {
+        "version": "faa1eda9eb6c80210343ea752d64ba06ae0d14f670676ab069ec7047c4f96512",
+        "signature": "faa1eda9eb6c80210343ea752d64ba06ae0d14f670676ab069ec7047c4f96512"
+      },
+      "../../node_modules/@types/jest/index.d.ts": {
+        "version": "2646abff0c955ca9ae25bdb9eeead8b99f19c16b8e739eb8ed5957488a146223",
+        "signature": "2646abff0c955ca9ae25bdb9eeead8b99f19c16b8e739eb8ed5957488a146223"
+      },
+      "../../node_modules/@types/js-yaml/index.d.ts": {
+        "version": "6c710fb284c75cba4e0bb719a4a6437680868c592fd82a06d9ac55a4339d195c",
+        "signature": "6c710fb284c75cba4e0bb719a4a6437680868c592fd82a06d9ac55a4339d195c"
+      },
+      "../../node_modules/@types/json-schema/index.d.ts": {
+        "version": "92bc43ea5584457c9325a3d5b2ce5af77df6d2653be7e4c2e9a626f89293c3c1",
+        "signature": "92bc43ea5584457c9325a3d5b2ce5af77df6d2653be7e4c2e9a626f89293c3c1"
+      },
+      "../../node_modules/@types/json5/index.d.ts": {
+        "version": "96d14f21b7652903852eef49379d04dbda28c16ed36468f8c9fa08f7c14c9538",
+        "signature": "96d14f21b7652903852eef49379d04dbda28c16ed36468f8c9fa08f7c14c9538"
+      },
+      "../../node_modules/xmlbuilder/typings/index.d.ts": {
+        "version": "e74d8ebc7621dbd09cb61ba00f87400d9b2f8603636e61116c749efc6bbc1126",
+        "signature": "e74d8ebc7621dbd09cb61ba00f87400d9b2f8603636e61116c749efc6bbc1126"
+      },
+      "../../node_modules/@types/plist/index.d.ts": {
+        "version": "6a7a0aa1245b6abb9c1245ee701b9856767112bc2649f1355058c4c3d8a0e555",
+        "signature": "6a7a0aa1245b6abb9c1245ee701b9856767112bc2649f1355058c4c3d8a0e555"
+      },
+      "../../node_modules/@types/prettier/index.d.ts": {
+        "version": "29651525db5579157e617c77e869af8bfdc1130f5d811c1f759ad35b7bafc8ef",
+        "signature": "29651525db5579157e617c77e869af8bfdc1130f5d811c1f759ad35b7bafc8ef"
+      },
+      "../../node_modules/@types/q/index.d.ts": {
+        "version": "57427a9a368f8f0ee4ce03c36a762e19166756b95ab688948b29be553b24a78a",
+        "signature": "57427a9a368f8f0ee4ce03c36a762e19166756b95ab688948b29be553b24a78a"
+      },
+      "../../node_modules/@types/stack-utils/index.d.ts": {
+        "version": "41422586881bcd739b4e62d9b91cd29909f8572aa3e3cdf316b7c50f14708d49",
+        "signature": "41422586881bcd739b4e62d9b91cd29909f8572aa3e3cdf316b7c50f14708d49"
+      },
+      "../../node_modules/@types/xmldoc/index.d.ts": {
+        "version": "e3d825cad28161f5719bf36ce5517ce9fe5120741626a033c3fd898231d68af9",
+        "signature": "e3d825cad28161f5719bf36ce5517ce9fe5120741626a033c3fd898231d68af9"
+      },
+      "../../node_modules/@types/yargs-parser/index.d.ts": {
+        "version": "fdfbe321c556c39a2ecf791d537b999591d0849e971dd938d88f460fea0186f6",
+        "signature": "fdfbe321c556c39a2ecf791d537b999591d0849e971dd938d88f460fea0186f6"
+      },
+      "../../node_modules/@types/yargs/index.d.ts": {
+        "version": "2893564a05d3bbe2a4d812dfd5ad3d7a6981a754283b695272d6ead03f638b67",
+        "signature": "2893564a05d3bbe2a4d812dfd5ad3d7a6981a754283b695272d6ead03f638b67"
+      }
+    },
+    "options": {
+      "target": 4,
+      "module": 1,
+      "lib": [
+        "lib.es2017.d.ts"
+      ],
+      "declaration": true,
+      "declarationMap": true,
+      "composite": true,
+      "emitDeclarationOnly": true,
+      "strict": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "noImplicitReturns": true,
+      "noFallthroughCasesInSwitch": true,
+      "moduleResolution": 2,
+      "esModuleInterop": true,
+      "resolveJsonModule": true,
+      "rootDir": "./src",
+      "outDir": "./build",
+      "configFilePath": "./tsconfig.json"
+    },
+    "referencedMap": {
+      "../../node_modules/typescript/lib/lib.es5.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2015.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2016.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2017.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2015.core.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2015.collection.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2015.generator.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2015.promise.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2017.object.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2017.string.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2017.intl.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/events/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/node/inspector.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/node/base.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/inspector.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/node/ts3.2/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts"
+      ],
+      "../../node_modules/@types/graceful-fs/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/gracefulifyfs.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/graceful-fs/index.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/chalk/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/commander/typings/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/leven/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-types/build/ios.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-types/build/android.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/cli-spinners/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/ora/index.d.ts": [
+        "../../node_modules/cli-spinners/index.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts"
+      ],
+      "../cli-types/build/index.d.ts": [
+        "../cli-types/build/ios.d.ts",
+        "../cli-types/build/android.d.ts",
+        "../../node_modules/ora/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../tools/build/logger.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/lodash/ts3.1/common/common.d.ts": [
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/lodash/ts3.1/common/array.d.ts": [
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/lodash/ts3.1/common/collection.d.ts": [
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/lodash/ts3.1/common/date.d.ts": [
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/lodash/ts3.1/common/function.d.ts": [
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/lodash/ts3.1/common/lang.d.ts": [
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/lodash/ts3.1/common/math.d.ts": [
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/lodash/ts3.1/common/number.d.ts": [
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/lodash/ts3.1/common/object.d.ts": [
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/lodash/ts3.1/common/seq.d.ts": [
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/lodash/ts3.1/common/string.d.ts": [
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/lodash/ts3.1/common/util.d.ts": [
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/lodash/ts3.1/index.d.ts": [
+        "../../node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../tools/build/groupfilesbytype.d.ts": [
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../tools/build/ispackagerrunning.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../tools/build/getdefaultuserterminal.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/form-data/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/node-fetch/externals.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/node-fetch/index.d.ts": [
+        "../../node_modules/form-data/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node-fetch/externals.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../tools/build/fetch.d.ts": [
+        "../../node_modules/@types/node-fetch/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../tools/build/launchdefaultbrowser.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../tools/build/launchdebugger.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../tools/build/launcheditor.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../tools/build/errors.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../tools/build/index.d.ts": [
+        "../tools/build/logger.d.ts",
+        "../tools/build/groupfilesbytype.d.ts",
+        "../tools/build/ispackagerrunning.d.ts",
+        "../tools/build/getdefaultuserterminal.d.ts",
+        "../tools/build/fetch.d.ts",
+        "../tools/build/launchdefaultbrowser.d.ts",
+        "../tools/build/launchdebugger.d.ts",
+        "../tools/build/launcheditor.d.ts",
+        "../tools/build/errors.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/ws/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-server-api/build/devtoolsmiddleware.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-server-api/build/indexpagemiddleware.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/connect/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-server-api/build/openstackframeineditormiddleware.d.ts": [
+        "../../node_modules/@types/connect/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-server-api/build/openurlmiddleware.d.ts": [
+        "../../node_modules/@types/connect/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-server-api/build/rawbodymiddleware.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-server-api/build/securityheadersmiddleware.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-server-api/build/statuspagemiddleware.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-server-api/build/systraceprofilemiddleware.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-server-api/build/websocket/debuggerproxyserver.d.ts": [
+        "../../node_modules/@types/ws/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-server-api/build/websocket/messagesocketserver.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-server-api/build/websocket/eventssocketserver.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../cli-server-api/build/websocket/messagesocketserver.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-server-api/build/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../cli-server-api/build/devtoolsmiddleware.d.ts",
+        "../cli-server-api/build/indexpagemiddleware.d.ts",
+        "../cli-server-api/build/openstackframeineditormiddleware.d.ts",
+        "../cli-server-api/build/openurlmiddleware.d.ts",
+        "../cli-server-api/build/rawbodymiddleware.d.ts",
+        "../cli-server-api/build/securityheadersmiddleware.d.ts",
+        "../cli-server-api/build/statuspagemiddleware.d.ts",
+        "../cli-server-api/build/systraceprofilemiddleware.d.ts",
+        "../cli-server-api/build/websocket/debuggerproxyserver.d.ts",
+        "../cli-server-api/build/websocket/eventssocketserver.d.ts",
+        "../cli-server-api/build/websocket/messagesocketserver.d.ts",
+        "../../node_modules/@types/ws/index.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/metroplatformresolver.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/loadmetroconfig.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../cli-types/build/index.d.ts",
+        "./src/tools/metroplatformresolver.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/config/resolvenodemoduledir.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/semver/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/mkdirp/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/releasechecker/releasecachemanager.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/mkdirp/index.d.ts",
+        "../tools/build/index.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/releasechecker/getlatestrelease.ts": [
+        "../../node_modules/@types/semver/index.d.ts",
+        "./src/tools/releasechecker/releasecachemanager.ts",
+        "../tools/build/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/releasechecker/printnewrelease.ts": [
+        "../../node_modules/chalk/index.d.ts",
+        "../tools/build/index.d.ts",
+        "./src/tools/releasechecker/getlatestrelease.ts",
+        "./src/tools/releasechecker/releasecachemanager.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/releasechecker/index.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../tools/build/index.d.ts",
+        "./src/tools/config/resolvenodemoduledir.ts",
+        "./src/tools/releasechecker/getlatestrelease.ts",
+        "./src/tools/releasechecker/printnewrelease.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/hookstdout.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/start/watchmode.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "./src/tools/hookstdout.ts",
+        "../tools/build/index.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/start/runserver.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../cli-server-api/build/index.d.ts",
+        "../cli-types/build/index.d.ts",
+        "./src/tools/loadmetroconfig.ts",
+        "./src/tools/releasechecker/index.ts",
+        "./src/commands/start/watchmode.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/start/start.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "./src/commands/start/runserver.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/bundle/bundlecommandlineargs.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/fs-extra/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/bundle/assetpathutils.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/bundle/assetcatalogios.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/fs-extra/index.d.ts",
+        "./src/commands/bundle/assetpathutils.ts",
+        "./src/commands/bundle/buildbundle.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/bundle/filterplatformassetscales.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/bundle/getassetdestpathandroid.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "./src/commands/bundle/assetpathutils.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/bundle/getassetdestpathios.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "./src/commands/bundle/assetpathutils.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/bundle/saveassets.ts": [
+        "../tools/build/index.d.ts",
+        "../../node_modules/@types/fs-extra/index.d.ts",
+        "../../node_modules/@types/mkdirp/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "./src/commands/bundle/assetcatalogios.ts",
+        "./src/commands/bundle/buildbundle.ts",
+        "./src/commands/bundle/filterplatformassetscales.ts",
+        "./src/commands/bundle/getassetdestpathandroid.ts",
+        "./src/commands/bundle/getassetdestpathios.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/bundle/buildbundle.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/chalk/index.d.ts",
+        "./src/commands/bundle/bundlecommandlineargs.ts",
+        "../cli-types/build/index.d.ts",
+        "./src/commands/bundle/saveassets.ts",
+        "./src/tools/loadmetroconfig.ts",
+        "../tools/build/index.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/bundle/bundle.ts": [
+        "../cli-types/build/index.d.ts",
+        "./src/commands/bundle/buildbundle.ts",
+        "./src/commands/bundle/bundlecommandlineargs.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/bundle/rambundle.ts": [
+        "./src/commands/bundle/bundle.ts",
+        "./src/commands/bundle/bundlecommandlineargs.ts",
+        "../cli-types/build/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/link/getplatformname.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/link/pollparams.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/link/linkdependency.ts": [
+        "../../node_modules/chalk/index.d.ts",
+        "../cli-types/build/index.d.ts",
+        "../tools/build/index.d.ts",
+        "./src/commands/link/pollparams.ts",
+        "./src/commands/link/getplatformname.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/link/linkassets.ts": [
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../cli-types/build/index.d.ts",
+        "../tools/build/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/execa/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/link/makehook.ts": [
+        "../../node_modules/@types/execa/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/link/printdeprecationwarning.ts": [
+        "../../node_modules/chalk/index.d.ts",
+        "../tools/build/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/link/linkall.ts": [
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/chalk/index.d.ts",
+        "../tools/build/index.d.ts",
+        "../cli-types/build/index.d.ts",
+        "./src/commands/link/linkassets.ts",
+        "./src/commands/link/linkdependency.ts",
+        "./src/commands/link/makehook.ts",
+        "./src/commands/link/printdeprecationwarning.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/link/link.ts": [
+        "../../node_modules/chalk/index.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../tools/build/index.d.ts",
+        "../cli-types/build/index.d.ts",
+        "./src/commands/link/getplatformname.ts",
+        "./src/commands/link/linkdependency.ts",
+        "./src/commands/link/linkassets.ts",
+        "./src/commands/link/linkall.ts",
+        "./src/commands/link/makehook.ts",
+        "./src/commands/link/printdeprecationwarning.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/link/unlink.ts": [
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../tools/build/index.d.ts",
+        "../cli-types/build/index.d.ts",
+        "./src/commands/link/getplatformname.ts",
+        "./src/commands/link/makehook.ts",
+        "./src/commands/link/printdeprecationwarning.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/locate-path/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/find-up/index.d.ts": [
+        "./node_modules/locate-path/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/yarn.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/semver/index.d.ts",
+        "../tools/build/index.d.ts",
+        "./node_modules/find-up/index.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/packagemanager.ts": [
+        "../../node_modules/@types/execa/index.d.ts",
+        "../tools/build/index.d.ts",
+        "./src/tools/yarn.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/config/finddependencies.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/config/findprojectroot.ts": [
+        "./node_modules/find-up/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../tools/build/index.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/config/resolvereactnativepath.ts": [
+        "../tools/build/index.d.ts",
+        "./src/tools/config/resolvenodemoduledir.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/minimatch/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/glob/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/minimatch/index.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/config/findassets.ts": [
+        "../../node_modules/@types/glob/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/cosmiconfig/index.d.ts": [
+        "../../node_modules/@types/node/ts3.2/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts"
+      ],
+      "../../node_modules/joi/lib/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/config/errors.ts": [
+        "../tools/build/index.d.ts",
+        "../../node_modules/joi/lib/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/config/schema.ts": [
+        "../../node_modules/joi/lib/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/config/readconfigfromdisk.ts": [
+        "../../node_modules/@types/cosmiconfig/index.d.ts",
+        "./src/tools/config/errors.ts",
+        "./src/tools/config/schema.ts",
+        "../cli-types/build/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/assign.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/deepmerge/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/merge.ts": [
+        "../../node_modules/deepmerge/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/config/index.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/chalk/index.d.ts",
+        "../cli-types/build/index.d.ts",
+        "../tools/build/index.d.ts",
+        "./src/tools/config/finddependencies.ts",
+        "./src/tools/config/findprojectroot.ts",
+        "./src/tools/config/resolvereactnativepath.ts",
+        "./src/tools/config/findassets.ts",
+        "./src/tools/config/readconfigfromdisk.ts",
+        "./src/tools/assign.ts",
+        "./src/tools/merge.ts",
+        "./src/tools/config/resolvenodemoduledir.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/install/install.ts": [
+        "../tools/build/index.d.ts",
+        "./src/tools/packagemanager.ts",
+        "./src/commands/link/link.ts",
+        "./src/tools/config/index.ts",
+        "../cli-types/build/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/install/uninstall.ts": [
+        "../cli-types/build/index.d.ts",
+        "../tools/build/index.d.ts",
+        "./src/tools/packagemanager.ts",
+        "./src/commands/link/unlink.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/loader.ts": [
+        "../../node_modules/ora/index.d.ts",
+        "../tools/build/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/sudo-prompt/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/wcwidth/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/strip-ansi/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/doctor/healthchecks/common.ts": [
+        "../../node_modules/chalk/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/wcwidth/index.d.ts",
+        "../../node_modules/strip-ansi/index.d.ts",
+        "../../node_modules/ora/index.d.ts",
+        "../tools/build/index.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/brewinstall.ts": [
+        "../../node_modules/@types/execa/index.d.ts",
+        "../../node_modules/ora/index.d.ts",
+        "./src/commands/doctor/healthchecks/common.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/installpods.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/execa/index.d.ts",
+        "../../node_modules/chalk/index.d.ts",
+        "../../node_modules/ora/index.d.ts",
+        "../tools/build/index.d.ts",
+        "./src/tools/loader.ts",
+        "../../node_modules/sudo-prompt/index.d.ts",
+        "./src/tools/brewinstall.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/upgrade/upgrade.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/chalk/index.d.ts",
+        "../../node_modules/@types/semver/index.d.ts",
+        "../../node_modules/@types/execa/index.d.ts",
+        "../cli-types/build/index.d.ts",
+        "../tools/build/index.d.ts",
+        "./src/tools/packagemanager.ts",
+        "./src/tools/installpods.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/envinfo.ts": [
+        "../cli-types/build/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/info/info.ts": [
+        "./src/tools/envinfo.ts",
+        "../tools/build/index.d.ts",
+        "../cli-types/build/index.d.ts",
+        "./src/tools/releasechecker/index.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/config/config.ts": [
+        "../cli-types/build/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/minimist/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/init/errors/invalidnameerror.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/init/errors/reservednameerror.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/init/errors/helloworlderror.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/init/validate.ts": [
+        "./src/commands/init/errors/invalidnameerror.ts",
+        "./src/commands/init/errors/reservednameerror.ts",
+        "./src/commands/init/errors/helloworlderror.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/init/errors/directoryalreadyexistserror.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/init/printruninstructions.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/chalk/index.d.ts",
+        "../tools/build/index.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/walk.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/copyfiles.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "./src/tools/walk.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/replacepathsepforregex.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/init/template.ts": [
+        "../../node_modules/@types/execa/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../tools/build/index.d.ts",
+        "./src/tools/packagemanager.ts",
+        "./src/tools/copyfiles.ts",
+        "./src/tools/replacepathsepforregex.ts",
+        "../../node_modules/chalk/index.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/init/edittemplate.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../tools/build/index.d.ts",
+        "./src/tools/walk.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/init/templatename.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../tools/build/index.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/init/banner.ts": [
+        "../../node_modules/chalk/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/init/init.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/fs-extra/index.d.ts",
+        "../../node_modules/@types/minimist/index.d.ts",
+        "../../node_modules/ora/index.d.ts",
+        "../../node_modules/@types/mkdirp/index.d.ts",
+        "./src/commands/init/validate.ts",
+        "./src/commands/init/errors/directoryalreadyexistserror.ts",
+        "./src/commands/init/printruninstructions.ts",
+        "../tools/build/index.d.ts",
+        "./src/commands/init/template.ts",
+        "./src/commands/init/edittemplate.ts",
+        "./src/tools/packagemanager.ts",
+        "./src/tools/installpods.ts",
+        "./src/commands/init/templatename.ts",
+        "./src/commands/init/banner.ts",
+        "./src/tools/loader.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/init/index.ts": [
+        "./src/commands/init/init.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/doctor/versionranges.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/command-exists/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/doctor/checkinstallation.ts": [
+        "../../node_modules/@types/semver/index.d.ts",
+        "../../node_modules/@types/command-exists/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/doctor/healthchecks/nodejs.ts": [
+        "./src/commands/doctor/versionranges.ts",
+        "./src/commands/doctor/checkinstallation.ts",
+        "../cli-types/build/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/install.ts": [
+        "../../node_modules/ora/index.d.ts",
+        "./src/tools/brewinstall.ts",
+        "./src/commands/doctor/healthchecks/common.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/doctor/healthchecks/packagemanagers.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "./src/commands/doctor/versionranges.ts",
+        "./src/commands/doctor/checkinstallation.ts",
+        "./src/tools/install.ts",
+        "../cli-types/build/index.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/unzip.ts": [
+        "../../node_modules/@types/fs-extra/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/deletefile.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/downloadandunzip.ts": [
+        "../tools/build/index.d.ts",
+        "../../node_modules/ora/index.d.ts",
+        "./src/tools/unzip.ts",
+        "./src/tools/deletefile.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/windows/executewincommand.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/execa/index.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/windows/environmentvariables.ts": [
+        "./src/tools/windows/executewincommand.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/doctor/healthchecks/jdk.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "./src/commands/doctor/versionranges.ts",
+        "./src/commands/doctor/checkinstallation.ts",
+        "../cli-types/build/index.d.ts",
+        "./src/tools/downloadandunzip.ts",
+        "./src/tools/windows/environmentvariables.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/doctor/healthchecks/python.ts": [
+        "../tools/build/index.d.ts",
+        "./src/commands/doctor/versionranges.ts",
+        "./src/commands/doctor/checkinstallation.ts",
+        "../cli-types/build/index.d.ts",
+        "./src/tools/windows/environmentvariables.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "./src/tools/windows/executewincommand.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/doctor/healthchecks/watchman.ts": [
+        "./src/commands/doctor/versionranges.ts",
+        "./src/commands/doctor/checkinstallation.ts",
+        "./src/tools/install.ts",
+        "../cli-types/build/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/doctor/healthchecks/androidhomeenvvariable.ts": [
+        "../../node_modules/chalk/index.d.ts",
+        "../cli-types/build/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/windows/processortype.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/windows/androidwinhelpers.ts": [
+        "../../node_modules/@types/fs-extra/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "./src/tools/windows/executewincommand.ts",
+        "./src/tools/windows/processortype.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/windows/create-shortcut.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "./src/tools/windows/executewincommand.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/doctor/healthchecks/androidstudio.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../cli-types/build/index.d.ts",
+        "./src/tools/downloadandunzip.ts",
+        "./src/tools/windows/executewincommand.ts",
+        "./src/tools/windows/androidwinhelpers.ts",
+        "./src/tools/windows/create-shortcut.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/doctor/healthchecks/androidsdk.ts": [
+        "../../node_modules/chalk/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../tools/build/index.d.ts",
+        "../cli-types/build/index.d.ts",
+        "./src/tools/config/findprojectroot.ts",
+        "./src/tools/windows/androidwinhelpers.ts",
+        "./src/tools/downloadandunzip.ts",
+        "./src/tools/windows/environmentvariables.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/doctor/healthchecks/androidndk.ts": [
+        "../../node_modules/chalk/index.d.ts",
+        "./src/commands/doctor/versionranges.ts",
+        "./src/commands/doctor/checkinstallation.ts",
+        "../cli-types/build/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/doctor/healthchecks/xcode.ts": [
+        "./src/commands/doctor/versionranges.ts",
+        "./src/commands/doctor/checkinstallation.ts",
+        "../cli-types/build/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/doctor/healthchecks/cocoapods.ts": [
+        "../../node_modules/@types/execa/index.d.ts",
+        "./src/commands/doctor/checkinstallation.ts",
+        "./src/tools/installpods.ts",
+        "./src/commands/doctor/healthchecks/common.ts",
+        "./src/tools/brewinstall.ts",
+        "../cli-types/build/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/doctor/healthchecks/iosdeploy.ts": [
+        "../../node_modules/@types/execa/index.d.ts",
+        "../../node_modules/chalk/index.d.ts",
+        "./src/commands/doctor/checkinstallation.ts",
+        "./src/commands/doctor/healthchecks/packagemanagers.ts",
+        "./src/commands/doctor/healthchecks/common.ts",
+        "../cli-types/build/index.d.ts",
+        "../../node_modules/ora/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/doctor/healthchecks/index.ts": [
+        "./src/commands/doctor/healthchecks/nodejs.ts",
+        "./src/commands/doctor/healthchecks/packagemanagers.ts",
+        "./src/commands/doctor/healthchecks/jdk.ts",
+        "./src/commands/doctor/healthchecks/python.ts",
+        "./src/commands/doctor/healthchecks/watchman.ts",
+        "./src/commands/doctor/healthchecks/androidhomeenvvariable.ts",
+        "./src/commands/doctor/healthchecks/androidstudio.ts",
+        "./src/commands/doctor/healthchecks/androidsdk.ts",
+        "./src/commands/doctor/healthchecks/androidndk.ts",
+        "./src/commands/doctor/healthchecks/xcode.ts",
+        "./src/commands/doctor/healthchecks/cocoapods.ts",
+        "./src/commands/doctor/healthchecks/iosdeploy.ts",
+        "../cli-types/build/index.d.ts",
+        "./src/tools/config/index.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/doctor/printfixoptions.ts": [
+        "../../node_modules/chalk/index.d.ts",
+        "../tools/build/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/doctor/types.ts": [
+        "../cli-types/build/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/doctor/runautomaticfix.ts": [
+        "../../node_modules/chalk/index.d.ts",
+        "../../node_modules/ora/index.d.ts",
+        "../tools/build/index.d.ts",
+        "./src/commands/doctor/healthchecks/index.ts",
+        "../cli-types/build/index.d.ts",
+        "./src/commands/doctor/types.ts",
+        "./src/commands/doctor/healthchecks/common.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/doctor/doctor.ts": [
+        "../../node_modules/chalk/index.d.ts",
+        "../tools/build/index.d.ts",
+        "./src/commands/doctor/healthchecks/index.ts",
+        "./src/tools/loader.ts",
+        "./src/commands/doctor/printfixoptions.ts",
+        "./src/commands/doctor/runautomaticfix.ts",
+        "../cli-types/build/index.d.ts",
+        "./src/commands/doctor/types.ts",
+        "./src/tools/envinfo.ts",
+        "./src/commands/doctor/healthchecks/common.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/doctor/index.ts": [
+        "./src/commands/doctor/doctor.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-hermes/build/profilehermes/index.d.ts": [
+        "../cli-types/build/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-hermes/build/index.d.ts": [
+        "../cli-hermes/build/profilehermes/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/index.ts": [
+        "../cli-types/build/index.d.ts",
+        "./src/commands/start/start.ts",
+        "./src/commands/bundle/bundle.ts",
+        "./src/commands/bundle/rambundle.ts",
+        "./src/commands/link/link.ts",
+        "./src/commands/link/unlink.ts",
+        "./src/commands/install/install.ts",
+        "./src/commands/install/uninstall.ts",
+        "./src/commands/upgrade/upgrade.ts",
+        "./src/commands/info/info.ts",
+        "./src/commands/config/config.ts",
+        "./src/commands/init/index.ts",
+        "./src/commands/doctor/index.ts",
+        "../cli-hermes/build/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/copyandreplace.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/generator/promptsync.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/generator/copyprojecttemplateandreplace.ts": [
+        "../../node_modules/chalk/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "./src/tools/copyandreplace.ts",
+        "./src/tools/generator/promptsync.ts",
+        "./src/tools/walk.ts",
+        "../tools/build/index.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/generator/templates.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "./src/tools/generator/copyprojecttemplateandreplace.ts",
+        "../tools/build/index.d.ts",
+        "./src/tools/packagemanager.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/init/initcompat.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/minimist/index.d.ts",
+        "./src/commands/init/printruninstructions.ts",
+        "./src/tools/generator/templates.ts",
+        "./src/tools/packagemanager.ts",
+        "../tools/build/index.d.ts",
+        "./src/tools/installpods.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/assertrequiredoptions.ts": [
+        "../../node_modules/commander/typings/index.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../cli-types/build/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/index.ts": [
+        "../../node_modules/chalk/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/commander/typings/index.d.ts",
+        "../../node_modules/leven/index.d.ts",
+        "../cli-types/build/index.d.ts",
+        "../tools/build/index.d.ts",
+        "./src/commands/index.ts",
+        "./src/commands/init/initcompat.ts",
+        "./src/tools/assertrequiredoptions.ts",
+        "./src/tools/config/index.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/bin.ts": [
+        "./src/tools/gracefulifyfs.ts",
+        "./src/index.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/config/__mocks__/index.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/config/__mocks__/resolvenodemoduledir.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@babel/types/lib/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/babel__generator/index.d.ts": [
+        "../../node_modules/@babel/types/lib/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/babel__traverse/index.d.ts": [
+        "../../node_modules/@babel/types/lib/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@babel/parser/typings/babel-parser.d.ts": [
+        "../../node_modules/@babel/types/lib/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/babel__template/index.d.ts": [
+        "../../node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "../../node_modules/@babel/types/lib/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/babel__core/index.d.ts": [
+        "../../node_modules/@types/babel__generator/index.d.ts",
+        "../../node_modules/@types/babel__traverse/index.d.ts",
+        "../../node_modules/@types/babel__template/index.d.ts",
+        "../../node_modules/@babel/types/lib/index.d.ts",
+        "../../node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/body-parser/index.d.ts": [
+        "../../node_modules/@types/connect/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/color-name/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/range-parser/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/express-serve-static-core/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/range-parser/index.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/mime/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/serve-static/index.d.ts": [
+        "../../node_modules/@types/express-serve-static-core/index.d.ts",
+        "../../node_modules/@types/mime/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/express/index.d.ts": [
+        "../../node_modules/@types/body-parser/index.d.ts",
+        "../../node_modules/@types/serve-static/index.d.ts",
+        "../../node_modules/@types/express-serve-static-core/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/compression/index.d.ts": [
+        "../../node_modules/@types/express/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/errorhandler/index.d.ts": [
+        "../../node_modules/@types/express/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/eslint-visitor-keys/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/hapi__joi/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/ip/index.d.ts": [
+        "../../node_modules/@types/node/ts3.2/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts"
+      ],
+      "../../node_modules/@types/istanbul-lib-coverage/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/istanbul-lib-report/index.d.ts": [
+        "../../node_modules/@types/istanbul-lib-coverage/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/istanbul-reports/index.d.ts": [
+        "../../node_modules/@types/istanbul-lib-report/index.d.ts",
+        "../../node_modules/@types/istanbul-lib-coverage/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/jest-diff/build/cleanupsemantic.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/jest-diff/build/types.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/jest-diff/build/difflines.d.ts": [
+        "../../node_modules/jest-diff/build/cleanupsemantic.d.ts",
+        "../../node_modules/jest-diff/build/types.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/jest-diff/build/printdiffs.d.ts": [
+        "../../node_modules/jest-diff/build/cleanupsemantic.d.ts",
+        "../../node_modules/jest-diff/build/types.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/jest-diff/build/index.d.ts": [
+        "../../node_modules/jest-diff/build/cleanupsemantic.d.ts",
+        "../../node_modules/jest-diff/build/difflines.d.ts",
+        "../../node_modules/jest-diff/build/printdiffs.d.ts",
+        "../../node_modules/jest-diff/build/types.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/jest/node_modules/pretty-format/build/types.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/jest/node_modules/pretty-format/build/index.d.ts": [
+        "../../node_modules/@types/jest/node_modules/pretty-format/build/types.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/jest/index.d.ts": [
+        "../../node_modules/jest-diff/build/index.d.ts",
+        "../../node_modules/@types/jest/node_modules/pretty-format/build/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/js-yaml/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/json-schema/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/json5/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/xmlbuilder/typings/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/plist/index.d.ts": [
+        "../../node_modules/xmlbuilder/typings/index.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts"
+      ],
+      "../../node_modules/@types/prettier/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/q/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/stack-utils/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/xmldoc/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/yargs-parser/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/yargs/index.d.ts": [
+        "../../node_modules/@types/yargs-parser/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "../../node_modules/typescript/lib/lib.es5.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2015.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2016.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2017.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2015.core.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2015.collection.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2015.generator.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2015.promise.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2017.object.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2017.string.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2017.intl.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/events/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/node/inspector.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/node/base.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/inspector.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/yargs/index.d.ts": [
+        "../../node_modules/@types/yargs-parser/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/yargs-parser/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/xmldoc/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/stack-utils/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/q/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/prettier/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/plist/index.d.ts": [
+        "../../node_modules/xmlbuilder/typings/index.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts"
+      ],
+      "../../node_modules/xmlbuilder/typings/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/json5/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/json-schema/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/js-yaml/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/jest/index.d.ts": [
+        "../../node_modules/jest-diff/build/index.d.ts",
+        "../../node_modules/@types/jest/node_modules/pretty-format/build/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/jest/node_modules/pretty-format/build/index.d.ts": [
+        "../../node_modules/@types/jest/node_modules/pretty-format/build/types.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/jest/node_modules/pretty-format/build/types.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/jest-diff/build/index.d.ts": [
+        "../../node_modules/jest-diff/build/cleanupsemantic.d.ts",
+        "../../node_modules/jest-diff/build/difflines.d.ts",
+        "../../node_modules/jest-diff/build/printdiffs.d.ts",
+        "../../node_modules/jest-diff/build/types.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/jest-diff/build/printdiffs.d.ts": [
+        "../../node_modules/jest-diff/build/cleanupsemantic.d.ts",
+        "../../node_modules/jest-diff/build/types.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/jest-diff/build/difflines.d.ts": [
+        "../../node_modules/jest-diff/build/cleanupsemantic.d.ts",
+        "../../node_modules/jest-diff/build/types.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/jest-diff/build/types.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/jest-diff/build/cleanupsemantic.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/istanbul-reports/index.d.ts": [
+        "../../node_modules/@types/istanbul-lib-report/index.d.ts",
+        "../../node_modules/@types/istanbul-lib-coverage/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/istanbul-lib-report/index.d.ts": [
+        "../../node_modules/@types/istanbul-lib-coverage/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/istanbul-lib-coverage/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/ip/index.d.ts": [
+        "../../node_modules/@types/node/ts3.2/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts"
+      ],
+      "../../node_modules/@types/hapi__joi/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/eslint-visitor-keys/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/errorhandler/index.d.ts": [
+        "../../node_modules/@types/express/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/compression/index.d.ts": [
+        "../../node_modules/@types/express/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/express/index.d.ts": [
+        "../../node_modules/@types/body-parser/index.d.ts",
+        "../../node_modules/@types/serve-static/index.d.ts",
+        "../../node_modules/@types/express-serve-static-core/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/serve-static/index.d.ts": [
+        "../../node_modules/@types/express-serve-static-core/index.d.ts",
+        "../../node_modules/@types/mime/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/mime/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/express-serve-static-core/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/range-parser/index.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/range-parser/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/color-name/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/body-parser/index.d.ts": [
+        "../../node_modules/@types/connect/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/babel__core/index.d.ts": [
+        "../../node_modules/@types/babel__generator/index.d.ts",
+        "../../node_modules/@types/babel__traverse/index.d.ts",
+        "../../node_modules/@types/babel__template/index.d.ts",
+        "../../node_modules/@babel/types/lib/index.d.ts",
+        "../../node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/babel__template/index.d.ts": [
+        "../../node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "../../node_modules/@babel/types/lib/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@babel/parser/typings/babel-parser.d.ts": [
+        "../../node_modules/@babel/types/lib/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/babel__traverse/index.d.ts": [
+        "../../node_modules/@babel/types/lib/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/babel__generator/index.d.ts": [
+        "../../node_modules/@babel/types/lib/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@babel/types/lib/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/bin.ts": [
+        "./src/tools/gracefulifyfs.ts"
+      ],
+      "./src/index.ts": [
+        "./src/commands/init/initcompat.ts"
+      ],
+      "./src/tools/assertrequiredoptions.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/commands/index.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "../cli-hermes/build/index.d.ts": [
+        "../cli-hermes/build/profilehermes/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-hermes/build/profilehermes/index.d.ts": [
+        "../cli-types/build/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/doctor/index.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/commands/doctor/doctor.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/commands/doctor/runautomaticfix.ts": [
+        "./src/commands/doctor/types.ts",
+        "../../node_modules/ora/index.d.ts",
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/commands/doctor/types.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/commands/doctor/healthchecks/index.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/commands/doctor/healthchecks/iosdeploy.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/commands/doctor/healthchecks/cocoapods.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/commands/doctor/healthchecks/xcode.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/commands/doctor/healthchecks/androidndk.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/commands/doctor/healthchecks/androidsdk.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/commands/doctor/healthchecks/androidstudio.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/tools/windows/androidwinhelpers.ts": [
+        "../../node_modules/@types/execa/index.d.ts"
+      ],
+      "./src/commands/doctor/healthchecks/androidhomeenvvariable.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/commands/doctor/healthchecks/watchman.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/commands/doctor/healthchecks/python.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/commands/doctor/healthchecks/jdk.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/tools/windows/executewincommand.ts": [
+        "../../node_modules/@types/execa/index.d.ts"
+      ],
+      "./src/tools/downloadandunzip.ts": [
+        "../../node_modules/ora/index.d.ts"
+      ],
+      "./src/tools/deletefile.ts": [
+        "../../node_modules/@types/node/base.d.ts"
+      ],
+      "./src/commands/doctor/healthchecks/packagemanagers.ts": [
+        "./src/commands/doctor/checkinstallation.ts",
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/tools/install.ts": [
+        "../../node_modules/ora/index.d.ts"
+      ],
+      "./src/commands/doctor/healthchecks/nodejs.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "../../node_modules/@types/command-exists/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/init/template.ts": [
+        "../../node_modules/@types/execa/index.d.ts"
+      ],
+      "../../node_modules/@types/minimist/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/config/config.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/commands/info/info.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/tools/envinfo.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/commands/upgrade/upgrade.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/tools/installpods.ts": [
+        "../../node_modules/ora/index.d.ts"
+      ],
+      "./src/tools/brewinstall.ts": [
+        "../../node_modules/ora/index.d.ts"
+      ],
+      "./src/commands/doctor/healthchecks/common.ts": [
+        "../../node_modules/ora/index.d.ts"
+      ],
+      "../../node_modules/strip-ansi/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/wcwidth/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/sudo-prompt/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/loader.ts": [
+        "../../node_modules/ora/index.d.ts"
+      ],
+      "./src/commands/install/uninstall.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/commands/install/install.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/tools/config/index.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "../../node_modules/deepmerge/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/config/readconfigfromdisk.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/tools/config/schema.ts": [
+        "../../node_modules/joi/lib/index.d.ts"
+      ],
+      "./src/tools/config/errors.ts": [
+        "../../node_modules/joi/lib/index.d.ts",
+        "../tools/build/index.d.ts"
+      ],
+      "../../node_modules/joi/lib/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/cosmiconfig/index.d.ts": [
+        "../../node_modules/@types/node/ts3.2/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts"
+      ],
+      "../../node_modules/@types/glob/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/minimatch/index.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/minimatch/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/packagemanager.ts": [
+        "../../node_modules/@types/execa/index.d.ts"
+      ],
+      "./node_modules/find-up/index.d.ts": [
+        "./node_modules/locate-path/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/locate-path/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/link/unlink.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/commands/link/link.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/commands/link/linkall.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/commands/link/makehook.ts": [
+        "../../node_modules/@types/execa/index.d.ts"
+      ],
+      "../../node_modules/@types/execa/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/link/linkassets.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/commands/link/linkdependency.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/commands/bundle/rambundle.ts": [
+        "../cli-types/build/index.d.ts",
+        "./src/commands/bundle/bundlecommandlineargs.ts"
+      ],
+      "./src/commands/bundle/bundle.ts": [
+        "../cli-types/build/index.d.ts",
+        "./src/commands/bundle/bundlecommandlineargs.ts"
+      ],
+      "./src/commands/bundle/buildbundle.ts": [
+        "./src/commands/bundle/bundlecommandlineargs.ts",
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/commands/bundle/saveassets.ts": [
+        "./src/commands/bundle/buildbundle.ts"
+      ],
+      "./src/commands/bundle/assetcatalogios.ts": [
+        "./src/commands/bundle/buildbundle.ts"
+      ],
+      "./src/commands/bundle/getassetdestpathios.ts": [
+        "./src/commands/bundle/assetpathutils.ts"
+      ],
+      "./src/commands/bundle/getassetdestpathandroid.ts": [
+        "./src/commands/bundle/assetpathutils.ts"
+      ],
+      "../../node_modules/@types/fs-extra/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/commands/start/start.ts": [
+        "./src/commands/start/runserver.ts"
+      ],
+      "./src/commands/start/runserver.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "./src/tools/releasechecker/printnewrelease.ts": [
+        "./src/tools/releasechecker/getlatestrelease.ts"
+      ],
+      "../../node_modules/@types/mkdirp/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/semver/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/loadmetroconfig.ts": [
+        "../cli-types/build/index.d.ts"
+      ],
+      "../cli-server-api/build/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../cli-server-api/build/devtoolsmiddleware.d.ts",
+        "../cli-server-api/build/indexpagemiddleware.d.ts",
+        "../cli-server-api/build/openstackframeineditormiddleware.d.ts",
+        "../cli-server-api/build/openurlmiddleware.d.ts",
+        "../cli-server-api/build/rawbodymiddleware.d.ts",
+        "../cli-server-api/build/securityheadersmiddleware.d.ts",
+        "../cli-server-api/build/statuspagemiddleware.d.ts",
+        "../cli-server-api/build/systraceprofilemiddleware.d.ts",
+        "../cli-server-api/build/websocket/debuggerproxyserver.d.ts",
+        "../cli-server-api/build/websocket/eventssocketserver.d.ts",
+        "../cli-server-api/build/websocket/messagesocketserver.d.ts",
+        "../../node_modules/@types/ws/index.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-server-api/build/websocket/eventssocketserver.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../cli-server-api/build/websocket/messagesocketserver.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-server-api/build/websocket/messagesocketserver.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-server-api/build/websocket/debuggerproxyserver.d.ts": [
+        "../../node_modules/@types/ws/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-server-api/build/systraceprofilemiddleware.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-server-api/build/statuspagemiddleware.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-server-api/build/securityheadersmiddleware.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-server-api/build/rawbodymiddleware.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-server-api/build/openurlmiddleware.d.ts": [
+        "../../node_modules/@types/connect/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-server-api/build/openstackframeineditormiddleware.d.ts": [
+        "../../node_modules/@types/connect/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/connect/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-server-api/build/indexpagemiddleware.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-server-api/build/devtoolsmiddleware.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/ws/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../tools/build/index.d.ts": [
+        "../tools/build/logger.d.ts",
+        "../tools/build/groupfilesbytype.d.ts",
+        "../tools/build/ispackagerrunning.d.ts",
+        "../tools/build/getdefaultuserterminal.d.ts",
+        "../tools/build/fetch.d.ts",
+        "../tools/build/launchdefaultbrowser.d.ts",
+        "../tools/build/launchdebugger.d.ts",
+        "../tools/build/launcheditor.d.ts",
+        "../tools/build/errors.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../tools/build/errors.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../tools/build/launcheditor.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../tools/build/launchdebugger.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../tools/build/launchdefaultbrowser.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../tools/build/fetch.d.ts": [
+        "../../node_modules/@types/node-fetch/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/node-fetch/index.d.ts": [
+        "../../node_modules/form-data/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node-fetch/externals.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/node-fetch/externals.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/form-data/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../tools/build/getdefaultuserterminal.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../tools/build/ispackagerrunning.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../tools/build/groupfilesbytype.d.ts": [
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/lodash/ts3.1/index.d.ts": [
+        "../../node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/lodash/ts3.1/common/util.d.ts": [
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/lodash/ts3.1/common/string.d.ts": [
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/lodash/ts3.1/common/seq.d.ts": [
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/lodash/ts3.1/common/object.d.ts": [
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/lodash/ts3.1/common/number.d.ts": [
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/lodash/ts3.1/common/math.d.ts": [
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/lodash/ts3.1/common/lang.d.ts": [
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/lodash/ts3.1/common/function.d.ts": [
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/lodash/ts3.1/common/date.d.ts": [
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/lodash/ts3.1/common/collection.d.ts": [
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/lodash/ts3.1/common/array.d.ts": [
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/lodash/ts3.1/common/common.d.ts": [
+        "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "../../node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../tools/build/logger.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-types/build/index.d.ts": [
+        "../cli-types/build/ios.d.ts",
+        "../cli-types/build/android.d.ts",
+        "../../node_modules/ora/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/ora/index.d.ts": [
+        "../../node_modules/cli-spinners/index.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts",
+        "../../node_modules/@types/node/base.d.ts"
+      ],
+      "../../node_modules/cli-spinners/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-types/build/android.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../cli-types/build/ios.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/leven/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/commander/typings/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/chalk/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/tools/gracefulifyfs.ts": [
+        "../../node_modules/@types/graceful-fs/index.d.ts"
+      ],
+      "../../node_modules/@types/graceful-fs/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "../../node_modules/@types/node/ts3.2/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "../../node_modules/@types/events/index.d.ts",
+      "../../node_modules/@types/node/inspector.d.ts",
+      "../../node_modules/@types/node/base.d.ts",
+      "../../node_modules/@types/node/ts3.2/index.d.ts",
+      "../../node_modules/@types/graceful-fs/index.d.ts",
+      "./src/tools/gracefulifyfs.ts",
+      "../../node_modules/chalk/index.d.ts",
+      "../../node_modules/commander/typings/index.d.ts",
+      "../../node_modules/leven/index.d.ts",
+      "../cli-types/build/ios.d.ts",
+      "../cli-types/build/android.d.ts",
+      "../../node_modules/cli-spinners/index.d.ts",
+      "../../node_modules/ora/index.d.ts",
+      "../cli-types/build/index.d.ts",
+      "../tools/build/logger.d.ts",
+      "../../node_modules/@types/lodash/ts3.1/common/common.d.ts",
+      "../../node_modules/@types/lodash/ts3.1/common/array.d.ts",
+      "../../node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+      "../../node_modules/@types/lodash/ts3.1/common/date.d.ts",
+      "../../node_modules/@types/lodash/ts3.1/common/function.d.ts",
+      "../../node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+      "../../node_modules/@types/lodash/ts3.1/common/math.d.ts",
+      "../../node_modules/@types/lodash/ts3.1/common/number.d.ts",
+      "../../node_modules/@types/lodash/ts3.1/common/object.d.ts",
+      "../../node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+      "../../node_modules/@types/lodash/ts3.1/common/string.d.ts",
+      "../../node_modules/@types/lodash/ts3.1/common/util.d.ts",
+      "../../node_modules/@types/lodash/ts3.1/index.d.ts",
+      "../tools/build/groupfilesbytype.d.ts",
+      "../tools/build/ispackagerrunning.d.ts",
+      "../tools/build/getdefaultuserterminal.d.ts",
+      "../../node_modules/form-data/index.d.ts",
+      "../../node_modules/@types/node-fetch/externals.d.ts",
+      "../../node_modules/@types/node-fetch/index.d.ts",
+      "../tools/build/fetch.d.ts",
+      "../tools/build/launchdefaultbrowser.d.ts",
+      "../tools/build/launchdebugger.d.ts",
+      "../tools/build/launcheditor.d.ts",
+      "../tools/build/errors.d.ts",
+      "../tools/build/index.d.ts",
+      "../../node_modules/@types/ws/index.d.ts",
+      "../cli-server-api/build/devtoolsmiddleware.d.ts",
+      "../cli-server-api/build/indexpagemiddleware.d.ts",
+      "../../node_modules/@types/connect/index.d.ts",
+      "../cli-server-api/build/openstackframeineditormiddleware.d.ts",
+      "../cli-server-api/build/openurlmiddleware.d.ts",
+      "../cli-server-api/build/rawbodymiddleware.d.ts",
+      "../cli-server-api/build/securityheadersmiddleware.d.ts",
+      "../cli-server-api/build/statuspagemiddleware.d.ts",
+      "../cli-server-api/build/systraceprofilemiddleware.d.ts",
+      "../cli-server-api/build/websocket/debuggerproxyserver.d.ts",
+      "../cli-server-api/build/websocket/messagesocketserver.d.ts",
+      "../cli-server-api/build/websocket/eventssocketserver.d.ts",
+      "../cli-server-api/build/index.d.ts",
+      "./src/tools/metroplatformresolver.ts",
+      "./src/tools/loadmetroconfig.ts",
+      "./src/tools/config/resolvenodemoduledir.ts",
+      "../../node_modules/@types/semver/index.d.ts",
+      "../../node_modules/@types/mkdirp/index.d.ts",
+      "./src/tools/releasechecker/releasecachemanager.ts",
+      "./src/tools/releasechecker/getlatestrelease.ts",
+      "./src/tools/releasechecker/printnewrelease.ts",
+      "./src/tools/releasechecker/index.ts",
+      "./src/tools/hookstdout.ts",
+      "./src/commands/start/watchmode.ts",
+      "./src/commands/start/runserver.ts",
+      "./src/commands/start/start.ts",
+      "./src/commands/bundle/bundlecommandlineargs.ts",
+      "../../node_modules/@types/fs-extra/index.d.ts",
+      "./src/commands/bundle/assetpathutils.ts",
+      "./src/commands/bundle/assetcatalogios.ts",
+      "./src/commands/bundle/filterplatformassetscales.ts",
+      "./src/commands/bundle/getassetdestpathandroid.ts",
+      "./src/commands/bundle/getassetdestpathios.ts",
+      "./src/commands/bundle/saveassets.ts",
+      "./src/commands/bundle/buildbundle.ts",
+      "./src/commands/bundle/bundle.ts",
+      "./src/commands/bundle/rambundle.ts",
+      "./src/commands/link/getplatformname.ts",
+      "./src/commands/link/pollparams.ts",
+      "./src/commands/link/linkdependency.ts",
+      "./src/commands/link/linkassets.ts",
+      "../../node_modules/@types/execa/index.d.ts",
+      "./src/commands/link/makehook.ts",
+      "./src/commands/link/printdeprecationwarning.ts",
+      "./src/commands/link/linkall.ts",
+      "./src/commands/link/link.ts",
+      "./src/commands/link/unlink.ts",
+      "./node_modules/locate-path/index.d.ts",
+      "./node_modules/find-up/index.d.ts",
+      "./src/tools/yarn.ts",
+      "./src/tools/packagemanager.ts",
+      "./src/tools/config/finddependencies.ts",
+      "./src/tools/config/findprojectroot.ts",
+      "./src/tools/config/resolvereactnativepath.ts",
+      "../../node_modules/@types/minimatch/index.d.ts",
+      "../../node_modules/@types/glob/index.d.ts",
+      "./src/tools/config/findassets.ts",
+      "../../node_modules/@types/cosmiconfig/index.d.ts",
+      "../../node_modules/joi/lib/index.d.ts",
+      "./src/tools/config/errors.ts",
+      "./src/tools/config/schema.ts",
+      "./src/tools/config/readconfigfromdisk.ts",
+      "./src/tools/assign.ts",
+      "../../node_modules/deepmerge/index.d.ts",
+      "./src/tools/merge.ts",
+      "./src/tools/config/index.ts",
+      "./src/commands/install/install.ts",
+      "./src/commands/install/uninstall.ts",
+      "./src/tools/loader.ts",
+      "../../node_modules/sudo-prompt/index.d.ts",
+      "../../node_modules/@types/wcwidth/index.d.ts",
+      "../../node_modules/strip-ansi/index.d.ts",
+      "./src/commands/doctor/healthchecks/common.ts",
+      "./src/tools/brewinstall.ts",
+      "./src/tools/installpods.ts",
+      "./src/commands/upgrade/upgrade.ts",
+      "./src/tools/envinfo.ts",
+      "./src/commands/info/info.ts",
+      "./src/commands/config/config.ts",
+      "../../node_modules/@types/minimist/index.d.ts",
+      "./src/commands/init/errors/invalidnameerror.ts",
+      "./src/commands/init/errors/reservednameerror.ts",
+      "./src/commands/init/errors/helloworlderror.ts",
+      "./src/commands/init/validate.ts",
+      "./src/commands/init/errors/directoryalreadyexistserror.ts",
+      "./src/commands/init/printruninstructions.ts",
+      "./src/tools/walk.ts",
+      "./src/tools/copyfiles.ts",
+      "./src/tools/replacepathsepforregex.ts",
+      "./src/commands/init/template.ts",
+      "./src/commands/init/edittemplate.ts",
+      "./src/commands/init/templatename.ts",
+      "./src/commands/init/banner.ts",
+      "./src/commands/init/init.ts",
+      "./src/commands/init/index.ts",
+      "./src/commands/doctor/versionranges.ts",
+      "../../node_modules/@types/command-exists/index.d.ts",
+      "./src/commands/doctor/checkinstallation.ts",
+      "./src/commands/doctor/healthchecks/nodejs.ts",
+      "./src/tools/install.ts",
+      "./src/commands/doctor/healthchecks/packagemanagers.ts",
+      "./src/tools/unzip.ts",
+      "./src/tools/deletefile.ts",
+      "./src/tools/downloadandunzip.ts",
+      "./src/tools/windows/executewincommand.ts",
+      "./src/tools/windows/environmentvariables.ts",
+      "./src/commands/doctor/healthchecks/jdk.ts",
+      "./src/commands/doctor/healthchecks/python.ts",
+      "./src/commands/doctor/healthchecks/watchman.ts",
+      "./src/commands/doctor/healthchecks/androidhomeenvvariable.ts",
+      "./src/tools/windows/processortype.ts",
+      "./src/tools/windows/androidwinhelpers.ts",
+      "./src/tools/windows/create-shortcut.ts",
+      "./src/commands/doctor/healthchecks/androidstudio.ts",
+      "./src/commands/doctor/healthchecks/androidsdk.ts",
+      "./src/commands/doctor/healthchecks/androidndk.ts",
+      "./src/commands/doctor/healthchecks/xcode.ts",
+      "./src/commands/doctor/healthchecks/cocoapods.ts",
+      "./src/commands/doctor/healthchecks/iosdeploy.ts",
+      "./src/commands/doctor/healthchecks/index.ts",
+      "./src/commands/doctor/printfixoptions.ts",
+      "./src/commands/doctor/types.ts",
+      "./src/commands/doctor/runautomaticfix.ts",
+      "./src/commands/doctor/doctor.ts",
+      "./src/commands/doctor/index.ts",
+      "../cli-hermes/build/profilehermes/index.d.ts",
+      "../cli-hermes/build/index.d.ts",
+      "./src/commands/index.ts",
+      "./src/tools/copyandreplace.ts",
+      "./src/tools/generator/promptsync.ts",
+      "./src/tools/generator/copyprojecttemplateandreplace.ts",
+      "./src/tools/generator/templates.ts",
+      "./src/commands/init/initcompat.ts",
+      "./src/tools/assertrequiredoptions.ts",
+      "./src/index.ts",
+      "./src/bin.ts",
+      "./src/tools/config/__mocks__/index.ts",
+      "./src/tools/config/__mocks__/resolvenodemoduledir.ts",
+      "../../node_modules/@babel/types/lib/index.d.ts",
+      "../../node_modules/@types/babel__generator/index.d.ts",
+      "../../node_modules/@types/babel__traverse/index.d.ts",
+      "../../node_modules/@babel/parser/typings/babel-parser.d.ts",
+      "../../node_modules/@types/babel__template/index.d.ts",
+      "../../node_modules/@types/babel__core/index.d.ts",
+      "../../node_modules/@types/body-parser/index.d.ts",
+      "../../node_modules/@types/color-name/index.d.ts",
+      "../../node_modules/@types/range-parser/index.d.ts",
+      "../../node_modules/@types/express-serve-static-core/index.d.ts",
+      "../../node_modules/@types/mime/index.d.ts",
+      "../../node_modules/@types/serve-static/index.d.ts",
+      "../../node_modules/@types/express/index.d.ts",
+      "../../node_modules/@types/compression/index.d.ts",
+      "../../node_modules/@types/errorhandler/index.d.ts",
+      "../../node_modules/@types/eslint-visitor-keys/index.d.ts",
+      "../../node_modules/@types/hapi__joi/index.d.ts",
+      "../../node_modules/@types/ip/index.d.ts",
+      "../../node_modules/@types/istanbul-lib-coverage/index.d.ts",
+      "../../node_modules/@types/istanbul-lib-report/index.d.ts",
+      "../../node_modules/@types/istanbul-reports/index.d.ts",
+      "../../node_modules/jest-diff/build/cleanupsemantic.d.ts",
+      "../../node_modules/jest-diff/build/types.d.ts",
+      "../../node_modules/jest-diff/build/difflines.d.ts",
+      "../../node_modules/jest-diff/build/printdiffs.d.ts",
+      "../../node_modules/jest-diff/build/index.d.ts",
+      "../../node_modules/@types/jest/node_modules/pretty-format/build/types.d.ts",
+      "../../node_modules/@types/jest/node_modules/pretty-format/build/index.d.ts",
+      "../../node_modules/@types/jest/index.d.ts",
+      "../../node_modules/@types/js-yaml/index.d.ts",
+      "../../node_modules/@types/json-schema/index.d.ts",
+      "../../node_modules/@types/json5/index.d.ts",
+      "../../node_modules/xmlbuilder/typings/index.d.ts",
+      "../../node_modules/@types/plist/index.d.ts",
+      "../../node_modules/@types/prettier/index.d.ts",
+      "../../node_modules/@types/q/index.d.ts",
+      "../../node_modules/@types/stack-utils/index.d.ts",
+      "../../node_modules/@types/xmldoc/index.d.ts",
+      "../../node_modules/@types/yargs-parser/index.d.ts",
+      "../../node_modules/@types/yargs/index.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.d.ts",
+      "../../node_modules/typescript/lib/lib.es2016.d.ts",
+      "../../node_modules/typescript/lib/lib.es2017.d.ts",
+      "../../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "../../node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "../../node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "../../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "../../node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "../../node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../../node_modules/typescript/lib/lib.es5.d.ts"
+    ]
+  },
+  "version": "3.8.2"
+}
